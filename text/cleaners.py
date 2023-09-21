@@ -15,6 +15,9 @@ hyperparameter. Some cleaners are English-specific. You'll typically want to use
 import re
 from unidecode import unidecode
 from phonemizer import phonemize
+from g2p_id import G2p
+
+g2p = G2p()
 
 
 # Regular expression matching whitespace:
@@ -107,4 +110,11 @@ def english_cleaners2(text):
         with_stress=True,
     )
     phonemes = collapse_whitespace(phonemes)
+    return phonemes
+
+
+def indonesian_cleaners(text):
+    """Pipeline for Indonesian text, including phonemization + punctuation"""
+    phonemes = g2p(text)
+    phonemes = "# #".join(["#".join(phn) for phn in phonemes])
     return phonemes
