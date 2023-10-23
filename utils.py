@@ -44,6 +44,29 @@ def load_checkpoint(checkpoint_path, model, optimizer=None):
     return model, optimizer, learning_rate, iteration
 
 
+def load_model_checkpoint(checkpoint_path, model):
+    assert os.path.isfile(checkpoint_path)
+    checkpoint_dict = torch.load(checkpoint_path, map_location="cpu")
+    saved_state_dict = checkpoint_dict["model"]
+    if hasattr(model, "module"):
+        state_dict = model.module.state_dict()
+    else:
+        state_dict = model.state_dict()
+    new_state_dict = {}
+    for k, v in state_dict.items():
+        try:
+            new_state_dict[k] = saved_state_dict[k]
+        except:
+            logger.info("%s is not in the checkpoint" % k)
+            new_state_dict[k] = v
+    if hasattr(model, "module"):
+        model.module.load_state_dict(new_state_dict)
+    else:
+        model.load_state_dict(new_state_dict)
+    logger.info("Loaded checkpoint '{}'".format(checkpoint_path))
+    return model
+
+
 def save_checkpoint(model, optimizer, learning_rate, iteration, checkpoint_path):
     logger.info(
         "Saving model and optimizer state at iteration {} to {}".format(
@@ -169,6 +192,12 @@ def get_hparams(init=True):
         default="./configs/base.json",
         help="JSON file for configuration",
     )
+    parser.add_argument(
+        "--checkpoint",
+        type=str,
+        required=True,
+        help="Path to pre-trained model checkpoint directory",
+    )
     parser.add_argument("-m", "--model", type=str, required=True, help="Model name")
 
     args = parser.parse_args()
@@ -191,6 +220,7 @@ def get_hparams(init=True):
 
     hparams = HParams(**config)
     hparams.model_dir = model_dir
+    hparams.checkpoint_dir = args.checkpoint
     return hparams
 
 

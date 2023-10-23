@@ -11,3 +11,5 @@ build
 monotonic_align/monotonic_align
 .DS_Store
 id-ID-*/
+tmp/
+outputs*

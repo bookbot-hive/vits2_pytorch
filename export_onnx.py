@@ -3,12 +3,13 @@ from pathlib import Path
 from typing import Optional
 
 import torch
+from onnxruntime.quantization import QuantType, quantize_dynamic
 
 import utils
 from models import SynthesizerTrn
 from text.symbols import symbols
 
-OPSET_VERSION = 15
+OPSET_VERSION = 17
 
 
 def main() -> None:
@@ -104,6 +105,15 @@ def main() -> None:
     )
 
     print(f"Exported model to {args.output}")
+
+    # Quantize to int8
+    quantize_dynamic(
+        model_input=args.output,
+        model_output=args.output.with_suffix(".int8.onnx"),
+        weight_type=QuantType.QUInt8,
+    )
+
+    print(f"Quantized model to {args.output.with_suffix('.int8.onnx')}")
 
 
 if __name__ == "__main__":
