@@ -195,7 +195,7 @@ def get_hparams(init=True):
     parser.add_argument(
         "--checkpoint",
         type=str,
-        required=True,
+        required=False,
         help="Path to pre-trained model checkpoint directory",
     )
     parser.add_argument("-m", "--model", type=str, required=True, help="Model name")

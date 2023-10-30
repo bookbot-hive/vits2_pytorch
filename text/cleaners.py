@@ -16,6 +16,7 @@ import re
 from unidecode import unidecode
 from phonemizer import phonemize
 from g2p_id import G2p
+from gruut import sentences
 
 g2p = G2p()
 
@@ -110,6 +111,21 @@ def english_cleaners2(text):
         with_stress=True,
     )
     phonemes = collapse_whitespace(phonemes)
+    return phonemes
+
+
+def english_cleaners3(text, speaker=None):
+    """Pipeline for English text, including phonemization + punctuation"""
+    # lang = speaker.split("-")[1].lower()
+
+    phonemizer = lambda s: [
+        [word.text] if word.is_major_break or word.is_minor_break else word.phonemes
+        for words in sentences(s)
+        for word in words
+    ]
+
+    phonemes = phonemizer(text)
+    phonemes = "# #".join(["#".join(phn) for phn in phonemes])
     return phonemes
 
 

@@ -1,11 +1,14 @@
 import argparse
 import text
 from utils import load_filepaths_and_text
+from tqdm import tqdm
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--out_extension", default="cleaned")
     parser.add_argument("--text_index", default=1, type=int)
+    parser.add_argument("--speaker_index", default=None, type=int)
     parser.add_argument(
         "--filelists",
         nargs="+",
@@ -18,12 +21,32 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
+    # collect all speakers
+    speakers = set()
+    if args.speaker_index:
+        for filelist in args.filelists:
+            filepaths_and_text = load_filepaths_and_text(filelist)
+            for i in tqdm(range(len(filepaths_and_text))):
+                speaker = None
+                if args.speaker_index:
+                    speaker = filepaths_and_text[i][args.speaker_index]
+                    speakers.add(speaker)
+
+    speakers = sorted(speakers)
+
     for filelist in args.filelists:
         print("START:", filelist)
         filepaths_and_text = load_filepaths_and_text(filelist)
-        for i in range(len(filepaths_and_text)):
+        for i in tqdm(range(len(filepaths_and_text))):
             original_text = filepaths_and_text[i][args.text_index]
-            cleaned_text = text._clean_text(original_text, args.text_cleaners)
+            speaker = None
+            if args.speaker_index:
+                speaker = filepaths_and_text[i][args.speaker_index]
+                filepaths_and_text[i][args.speaker_index] = str(speakers.index(speaker))
+
+            cleaned_text = text._clean_text(
+                original_text, args.text_cleaners, speaker=speaker
+            )
             filepaths_and_text[i][args.text_index] = cleaned_text
 
         new_filelist = filelist + "." + args.out_extension
