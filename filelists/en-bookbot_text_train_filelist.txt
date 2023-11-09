@@ -1,0 +1,1073 @@
+en-bookbot/en-AU-Zak/en-AU-Zak_0.wav|en-AU-Zak|he is going to do things to help the animals so that they can see he is a great bird to have around .
+en-bookbot/en-AU-Zak/en-AU-Zak_1.wav|en-AU-Zak|tim is doing his best not to look at the ground so that he can stay on track .
+en-bookbot/en-AU-Zak/en-AU-Zak_10.wav|en-AU-Zak|zom makes a little pen that he can house some rabbits in .
+en-bookbot/en-AU-Zak/en-AU-Zak_100.wav|en-AU-Zak|her red coat will not let the cold in .
+en-bookbot/en-AU-Zak/en-AU-Zak_101.wav|en-AU-Zak|we need to have a day in the yard .
+en-bookbot/en-AU-Zak/en-AU-Zak_102.wav|en-AU-Zak|zom wants to find a way to pass the time while his pal is gone .
+en-bookbot/en-AU-Zak/en-AU-Zak_103.wav|en-AU-Zak|a pup is a dog when it gets big .
+en-bookbot/en-AU-Zak/en-AU-Zak_104.wav|en-AU-Zak|she thinks that it is going to be fun .
+en-bookbot/en-AU-Zak/en-AU-Zak_105.wav|en-AU-Zak|they have so much cod that they dont know what to do with it .
+en-bookbot/en-AU-Zak/en-AU-Zak_106.wav|en-AU-Zak|it looks like it took a big jump and is coming in to land .
+en-bookbot/en-AU-Zak/en-AU-Zak_107.wav|en-AU-Zak|no wonder she feels at home in the water .
+en-bookbot/en-AU-Zak/en-AU-Zak_108.wav|en-AU-Zak|they let us do things when it is dark .
+en-bookbot/en-AU-Zak/en-AU-Zak_109.wav|en-AU-Zak|alex takes the rotten fish to a cave nearby .
+en-bookbot/en-AU-Zak/en-AU-Zak_11.wav|en-AU-Zak|her mum said that they could go down to the sea today .
+en-bookbot/en-AU-Zak/en-AU-Zak_110.wav|en-AU-Zak|she says there is still a lot to do .
+en-bookbot/en-AU-Zak/en-AU-Zak_111.wav|en-AU-Zak|he makes it so a bat can fly in .
+en-bookbot/en-AU-Zak/en-AU-Zak_112.wav|en-AU-Zak|they like being able to duck into a little space where they can be safe and in the dark .
+en-bookbot/en-AU-Zak/en-AU-Zak_113.wav|en-AU-Zak|we need to jump up high to hit the ball .
+en-bookbot/en-AU-Zak/en-AU-Zak_114.wav|en-AU-Zak|it took forever to find it because he could not see where he was going .
+en-bookbot/en-AU-Zak/en-AU-Zak_115.wav|en-AU-Zak|they put out some pails to catch the rain .
+en-bookbot/en-AU-Zak/en-AU-Zak_116.wav|en-AU-Zak|he feels like it is his job to scare .
+en-bookbot/en-AU-Zak/en-AU-Zak_117.wav|en-AU-Zak|she will need to get more to do her job .
+en-bookbot/en-AU-Zak/en-AU-Zak_118.wav|en-AU-Zak|the water that comes out will not hurt us .
+en-bookbot/en-AU-Zak/en-AU-Zak_119.wav|en-AU-Zak|it feels good to have done it all myself .
+en-bookbot/en-AU-Zak/en-AU-Zak_12.wav|en-AU-Zak|the cub can run on the leg when it is all better .
+en-bookbot/en-AU-Zak/en-AU-Zak_120.wav|en-AU-Zak|birds come to see how my wings will go .
+en-bookbot/en-AU-Zak/en-AU-Zak_121.wav|en-AU-Zak|now they will not have to sleep on his bed all of the time .
+en-bookbot/en-AU-Zak/en-AU-Zak_122.wav|en-AU-Zak|it is going to rain up where they live .
+en-bookbot/en-AU-Zak/en-AU-Zak_123.wav|en-AU-Zak|ren lands in a spot on mars where he can get some great rocks to bring home with him .
+en-bookbot/en-AU-Zak/en-AU-Zak_124.wav|en-AU-Zak|they walk through the town looking for a good place to have a bite to eat .
+en-bookbot/en-AU-Zak/en-AU-Zak_125.wav|en-AU-Zak|it jumps at the dog like it is prey .
+en-bookbot/en-AU-Zak/en-AU-Zak_126.wav|en-AU-Zak|i hope now that the sea will stay clean .
+en-bookbot/en-AU-Zak/en-AU-Zak_127.wav|en-AU-Zak|now there is red paint all over the cat .
+en-bookbot/en-AU-Zak/en-AU-Zak_128.wav|en-AU-Zak|we get to play at a high level now .
+en-bookbot/en-AU-Zak/en-AU-Zak_129.wav|en-AU-Zak|i have a lot that i love in my life .
+en-bookbot/en-AU-Zak/en-AU-Zak_13.wav|en-AU-Zak|he hopes that he will be able to stay safe up there .
+en-bookbot/en-AU-Zak/en-AU-Zak_130.wav|en-AU-Zak|frog decides that this will be his new home so that he can look down into the stars every night .
+en-bookbot/en-AU-Zak/en-AU-Zak_131.wav|en-AU-Zak|they will show him great new things to eat .
+en-bookbot/en-AU-Zak/en-AU-Zak_132.wav|en-AU-Zak|a bird might think that they will get sick .
+en-bookbot/en-AU-Zak/en-AU-Zak_133.wav|en-AU-Zak|we need to put in the research now so that they can keep farming to provide us with enough food .
+en-bookbot/en-AU-Zak/en-AU-Zak_134.wav|en-AU-Zak|there is not much water left in the creek .
+en-bookbot/en-AU-Zak/en-AU-Zak_135.wav|en-AU-Zak|if we do not pick them in time , the insects will get to them .
+en-bookbot/en-AU-Zak/en-AU-Zak_136.wav|en-AU-Zak|we should find who put the trash in the lake .
+en-bookbot/en-AU-Zak/en-AU-Zak_137.wav|en-AU-Zak|there must be a way to cook in a pinch .
+en-bookbot/en-AU-Zak/en-AU-Zak_138.wav|en-AU-Zak|crow is in the treetops all by himself now .
+en-bookbot/en-AU-Zak/en-AU-Zak_139.wav|en-AU-Zak|he may be off to town to get his mail .
+en-bookbot/en-AU-Zak/en-AU-Zak_14.wav|en-AU-Zak|ren walks out to the spot where he can get the best rocks .
+en-bookbot/en-AU-Zak/en-AU-Zak_140.wav|en-AU-Zak|the dolphins say they would be glad to see the three pals any time .
+en-bookbot/en-AU-Zak/en-AU-Zak_141.wav|en-AU-Zak|now he cannot find his way back home .
+en-bookbot/en-AU-Zak/en-AU-Zak_142.wav|en-AU-Zak|they still have a long way to go home .
+en-bookbot/en-AU-Zak/en-AU-Zak_143.wav|en-AU-Zak|we dig down in the mud so that we can rest until the rain comes .
+en-bookbot/en-AU-Zak/en-AU-Zak_144.wav|en-AU-Zak|they want me to do it again next week .
+en-bookbot/en-AU-Zak/en-AU-Zak_145.wav|en-AU-Zak|lila takes a break so that she can think .
+en-bookbot/en-AU-Zak/en-AU-Zak_146.wav|en-AU-Zak|nip feels like they might have something in common .
+en-bookbot/en-AU-Zak/en-AU-Zak_147.wav|en-AU-Zak|i am so glad that i have a mum and dad to help me get through everything in my day .
+en-bookbot/en-AU-Zak/en-AU-Zak_148.wav|en-AU-Zak|she is so glad to have a dog pal .
+en-bookbot/en-AU-Zak/en-AU-Zak_149.wav|en-AU-Zak|our goal is to grow all that we eat .
+en-bookbot/en-AU-Zak/en-AU-Zak_15.wav|en-AU-Zak|said a few others as they began to pick up the fish .
+en-bookbot/en-AU-Zak/en-AU-Zak_150.wav|en-AU-Zak|it will seem like we can spread it to kids who are near us .
+en-bookbot/en-AU-Zak/en-AU-Zak_151.wav|en-AU-Zak|they all want it to be their new home .
+en-bookbot/en-AU-Zak/en-AU-Zak_152.wav|en-AU-Zak|they have to make it to the tree so that he can save his brother .
+en-bookbot/en-AU-Zak/en-AU-Zak_153.wav|en-AU-Zak|so it seems there really is just one me .
+en-bookbot/en-AU-Zak/en-AU-Zak_154.wav|en-AU-Zak|it would be a good spot to hide in .
+en-bookbot/en-AU-Zak/en-AU-Zak_155.wav|en-AU-Zak|he must still find out what his cat likes .
+en-bookbot/en-AU-Zak/en-AU-Zak_156.wav|en-AU-Zak|it is not good to let food go to waste .
+en-bookbot/en-AU-Zak/en-AU-Zak_157.wav|en-AU-Zak|he cannot wait until the moon is in the right spot for him to show it his new cap .
+en-bookbot/en-AU-Zak/en-AU-Zak_158.wav|en-AU-Zak|they will not have the same finery on their bodies when they come out .
+en-bookbot/en-AU-Zak/en-AU-Zak_159.wav|en-AU-Zak|tim says that he finds them all hard because the teacher goes so fast .
+en-bookbot/en-AU-Zak/en-AU-Zak_16.wav|en-AU-Zak|her mum is so proud that she gave the sea a try .
+en-bookbot/en-AU-Zak/en-AU-Zak_160.wav|en-AU-Zak|he takes his elephant over to the tree and jumps up onto another branch .
+en-bookbot/en-AU-Zak/en-AU-Zak_161.wav|en-AU-Zak|we want to do something to teach him a lesson .
+en-bookbot/en-AU-Zak/en-AU-Zak_162.wav|en-AU-Zak|soon there is a strong pong in the house .
+en-bookbot/en-AU-Zak/en-AU-Zak_163.wav|en-AU-Zak|he can rest here and the fish will help to get him on the mend .
+en-bookbot/en-AU-Zak/en-AU-Zak_164.wav|en-AU-Zak|anika backs off so that the eel can flee .
+en-bookbot/en-AU-Zak/en-AU-Zak_165.wav|en-AU-Zak|many people believe that the best way to keep clean is to get in a big tub of water .
+en-bookbot/en-AU-Zak/en-AU-Zak_166.wav|en-AU-Zak|he digs plots with good soil so that he can pop the seeds right in when he comes back .
+en-bookbot/en-AU-Zak/en-AU-Zak_167.wav|en-AU-Zak|if it gets too crazy out there , we can find a spot to hide while it pelts down .
+en-bookbot/en-AU-Zak/en-AU-Zak_168.wav|en-AU-Zak|she thinks that it must be a pig because it is so smelly and all covered in mud and dirt .
+en-bookbot/en-AU-Zak/en-AU-Zak_169.wav|en-AU-Zak|but it makes him happy just to see that he can have an effect on peoples lives .
+en-bookbot/en-AU-Zak/en-AU-Zak_17.wav|en-AU-Zak|take some time to look at homes on the internet to get ideas .
+en-bookbot/en-AU-Zak/en-AU-Zak_170.wav|en-AU-Zak|they lead him to a truck so that they can take him to the vet and check out his leg .
+en-bookbot/en-AU-Zak/en-AU-Zak_171.wav|en-AU-Zak|he was lost and found a good spot to wait out the storm .
+en-bookbot/en-AU-Zak/en-AU-Zak_172.wav|en-AU-Zak|you can have a good time even when there is nothing to do .
+en-bookbot/en-AU-Zak/en-AU-Zak_173.wav|en-AU-Zak|there is such a lot going on in town all of the time .
+en-bookbot/en-AU-Zak/en-AU-Zak_174.wav|en-AU-Zak|he had better get back home before she sees that he is gone .
+en-bookbot/en-AU-Zak/en-AU-Zak_175.wav|en-AU-Zak|this is not quite what they thought their farm stay would be like .
+en-bookbot/en-AU-Zak/en-AU-Zak_176.wav|en-AU-Zak|this seems like the perfect spot to bunker down for a good nap .
+en-bookbot/en-AU-Zak/en-AU-Zak_177.wav|en-AU-Zak|some of us live at the back of a shop so where we work .
+en-bookbot/en-AU-Zak/en-AU-Zak_178.wav|en-AU-Zak|she is so upset about the nuts that she cannot think straight .
+en-bookbot/en-AU-Zak/en-AU-Zak_179.wav|en-AU-Zak|it is hard to find food when the lakebed dries up as well .
+en-bookbot/en-AU-Zak/en-AU-Zak_18.wav|en-AU-Zak|i make a hot drink to warm me up when i get home .
+en-bookbot/en-AU-Zak/en-AU-Zak_180.wav|en-AU-Zak|this dog does not look like it wants to be a bird mum .
+en-bookbot/en-AU-Zak/en-AU-Zak_181.wav|en-AU-Zak|he is careful to blow it out when he goes to bed each night .
+en-bookbot/en-AU-Zak/en-AU-Zak_182.wav|en-AU-Zak|they take it to a van so that they can fix its leg .
+en-bookbot/en-AU-Zak/en-AU-Zak_183.wav|en-AU-Zak|but he tells me that he still likes it best when it is just us .
+en-bookbot/en-AU-Zak/en-AU-Zak_184.wav|en-AU-Zak|he looks in the tree and around the tree and still cannot find his breakfast .
+en-bookbot/en-AU-Zak/en-AU-Zak_185.wav|en-AU-Zak|i like to chat to kids that i see on my way home for supper .
+en-bookbot/en-AU-Zak/en-AU-Zak_186.wav|en-AU-Zak|maybe this was going to be more of a problem than he thought .
+en-bookbot/en-AU-Zak/en-AU-Zak_187.wav|en-AU-Zak|i wish that i could ride a bike and go to work with him .
+en-bookbot/en-AU-Zak/en-AU-Zak_188.wav|en-AU-Zak|he sings him a nice song while he gives him a bath to get him ready .
+en-bookbot/en-AU-Zak/en-AU-Zak_189.wav|en-AU-Zak|maybe he is just out to enjoy the moon on this lovely night .
+en-bookbot/en-AU-Zak/en-AU-Zak_19.wav|en-AU-Zak|he get in through a window to see what he can find .
+en-bookbot/en-AU-Zak/en-AU-Zak_190.wav|en-AU-Zak|i get to show off my talents while they have a great time .
+en-bookbot/en-AU-Zak/en-AU-Zak_191.wav|en-AU-Zak|panha transmits a message down to the ground that she is coming back .
+en-bookbot/en-AU-Zak/en-AU-Zak_192.wav|en-AU-Zak|she will chase the bug so that she can have a good look .
+en-bookbot/en-AU-Zak/en-AU-Zak_193.wav|en-AU-Zak|with no food , she will have no energy to run around after them .
+en-bookbot/en-AU-Zak/en-AU-Zak_194.wav|en-AU-Zak|diane wants to find a way that she can keep the world clean .
+en-bookbot/en-AU-Zak/en-AU-Zak_195.wav|en-AU-Zak|they need to catch a live one and eat it on the spot .
+en-bookbot/en-AU-Zak/en-AU-Zak_196.wav|en-AU-Zak|the moon is up and the spook will chase and chase when he is in the mood .
+en-bookbot/en-AU-Zak/en-AU-Zak_197.wav|en-AU-Zak|a best pal tries to help you get good at things that you love .
+en-bookbot/en-AU-Zak/en-AU-Zak_198.wav|en-AU-Zak|they must find a spot where they can go through their big change .
+en-bookbot/en-AU-Zak/en-AU-Zak_199.wav|en-AU-Zak|he must find the best stuff so that he can show his pals .
+en-bookbot/en-AU-Zak/en-AU-Zak_2.wav|en-AU-Zak|their mum says it is good to rest so that they have the energy to do things when they need to .
+en-bookbot/en-AU-Zak/en-AU-Zak_20.wav|en-AU-Zak|it is time to go home so he will not be late .
+en-bookbot/en-AU-Zak/en-AU-Zak_200.wav|en-AU-Zak|the bees do not want to hang out , but zom is glad to be near them in a way that they like .
+en-bookbot/en-AU-Zak/en-AU-Zak_201.wav|en-AU-Zak|she is not by the shrubs at the back .
+en-bookbot/en-AU-Zak/en-AU-Zak_202.wav|en-AU-Zak|here is a job that she can do .
+en-bookbot/en-AU-Zak/en-AU-Zak_203.wav|en-AU-Zak|but he was made to do big things .
+en-bookbot/en-AU-Zak/en-AU-Zak_204.wav|en-AU-Zak|i think we need to be slow now .
+en-bookbot/en-AU-Zak/en-AU-Zak_205.wav|en-AU-Zak|dragon is so good he gets a job .
+en-bookbot/en-AU-Zak/en-AU-Zak_206.wav|en-AU-Zak|skink was already deep in the beasts den .
+en-bookbot/en-AU-Zak/en-AU-Zak_207.wav|en-AU-Zak|pas says this pot is the best .
+en-bookbot/en-AU-Zak/en-AU-Zak_208.wav|en-AU-Zak|the fish said that it would teach him .
+en-bookbot/en-AU-Zak/en-AU-Zak_209.wav|en-AU-Zak|a cat got at the rot in the log .
+en-bookbot/en-AU-Zak/en-AU-Zak_21.wav|en-AU-Zak|they do not need big companies to give them their approval .
+en-bookbot/en-AU-Zak/en-AU-Zak_210.wav|en-AU-Zak|this spook is not in the mood to spook .
+en-bookbot/en-AU-Zak/en-AU-Zak_211.wav|en-AU-Zak|we hide in a cave to keep dry .
+en-bookbot/en-AU-Zak/en-AU-Zak_212.wav|en-AU-Zak|he will set a flame under the pot .
+en-bookbot/en-AU-Zak/en-AU-Zak_213.wav|en-AU-Zak|is there different way that he can grab the cod so that he can make some lunch ?
+en-bookbot/en-AU-Zak/en-AU-Zak_214.wav|en-AU-Zak|are there things with no wings that can still be up in the sky ?
+en-bookbot/en-AU-Zak/en-AU-Zak_215.wav|en-AU-Zak|i wonder what he is going to get up to when the sun is up again ?
+en-bookbot/en-AU-Zak/en-AU-Zak_216.wav|en-AU-Zak|or would they break the things that we have made ?
+en-bookbot/en-AU-Zak/en-AU-Zak_217.wav|en-AU-Zak|can things with no wings be up in the sky ?
+en-bookbot/en-AU-Zak/en-AU-Zak_218.wav|en-AU-Zak|will it try to get us when we go by ?
+en-bookbot/en-AU-Zak/en-AU-Zak_219.wav|en-AU-Zak|just how big was this beast going to be ?
+en-bookbot/en-AU-Zak/en-AU-Zak_22.wav|en-AU-Zak|his friends have moved on so that they could stay safe .
+en-bookbot/en-AU-Zak/en-AU-Zak_220.wav|en-AU-Zak|maybe we can see how we go with each book ?
+en-bookbot/en-AU-Zak/en-AU-Zak_221.wav|en-AU-Zak|was this why it was hard to find friends ?
+en-bookbot/en-AU-Zak/en-AU-Zak_222.wav|en-AU-Zak|what will happen to these things along the way ?
+en-bookbot/en-AU-Zak/en-AU-Zak_223.wav|en-AU-Zak|who is the kite going to pick up next ?
+en-bookbot/en-AU-Zak/en-AU-Zak_224.wav|en-AU-Zak|is there anything that might get in the way ?
+en-bookbot/en-AU-Zak/en-AU-Zak_225.wav|en-AU-Zak|what is he going to do with it all ?
+en-bookbot/en-AU-Zak/en-AU-Zak_226.wav|en-AU-Zak|is she going to keep interacting with it ?
+en-bookbot/en-AU-Zak/en-AU-Zak_227.wav|en-AU-Zak|why was a pig even up this high ?
+en-bookbot/en-AU-Zak/en-AU-Zak_228.wav|en-AU-Zak|is this branch the spot that it wants ?
+en-bookbot/en-AU-Zak/en-AU-Zak_229.wav|en-AU-Zak|what was a pig doing up so high ?
+en-bookbot/en-AU-Zak/en-AU-Zak_23.wav|en-AU-Zak|it is like they have more life than they have in a while .
+en-bookbot/en-AU-Zak/en-AU-Zak_230.wav|en-AU-Zak|is there a new way to do this ?
+en-bookbot/en-AU-Zak/en-AU-Zak_231.wav|en-AU-Zak|does he means to set up a shop ?
+en-bookbot/en-AU-Zak/en-AU-Zak_232.wav|en-AU-Zak|now what will he make with his cod ?
+en-bookbot/en-AU-Zak/en-AU-Zak_233.wav|en-AU-Zak|does it want to flip the tin and see what is inside ?
+en-bookbot/en-AU-Zak/en-AU-Zak_234.wav|en-AU-Zak|can we still find a way to know how heavy it is ?
+en-bookbot/en-AU-Zak/en-AU-Zak_235.wav|en-AU-Zak|will the bird be able to get back in time to defend the nest ?
+en-bookbot/en-AU-Zak/en-AU-Zak_236.wav|en-AU-Zak|is it going to be something that will make the bats feel more welcome on the farm ?
+en-bookbot/en-AU-Zak/en-AU-Zak_237.wav|en-AU-Zak|he crouches on the ground when he plays some games , but is he playing now ?
+en-bookbot/en-AU-Zak/en-AU-Zak_238.wav|en-AU-Zak|has it been on a long flight ?
+en-bookbot/en-AU-Zak/en-AU-Zak_239.wav|en-AU-Zak|we just spent all day at school and now we have to sit through more ?
+en-bookbot/en-AU-Zak/en-AU-Zak_24.wav|en-AU-Zak|the lady said , pointing to a bird before running off .
+en-bookbot/en-AU-Zak/en-AU-Zak_240.wav|en-AU-Zak|what fun is in the next yard ?
+en-bookbot/en-AU-Zak/en-AU-Zak_241.wav|en-AU-Zak|how was he going to get down ?
+en-bookbot/en-AU-Zak/en-AU-Zak_242.wav|en-AU-Zak|what will the cat want to bat ?
+en-bookbot/en-AU-Zak/en-AU-Zak_243.wav|en-AU-Zak|is there anything that doesnt have wings that can still be up in the sky ?
+en-bookbot/en-AU-Zak/en-AU-Zak_244.wav|en-AU-Zak|is there any water in the pail ?
+en-bookbot/en-AU-Zak/en-AU-Zak_245.wav|en-AU-Zak|will it move when the people want to go to sleep too ?
+en-bookbot/en-AU-Zak/en-AU-Zak_246.wav|en-AU-Zak|what is he going to do when his mum goes to work ?
+en-bookbot/en-AU-Zak/en-AU-Zak_247.wav|en-AU-Zak|does he want to have a game ?
+en-bookbot/en-AU-Zak/en-AU-Zak_248.wav|en-AU-Zak|can beasts that do not have wings still get up into the sky and fly ?
+en-bookbot/en-AU-Zak/en-AU-Zak_249.wav|en-AU-Zak|how do they find where to go ?
+en-bookbot/en-AU-Zak/en-AU-Zak_25.wav|en-AU-Zak|it is the dog that lives on the farm near this field .
+en-bookbot/en-AU-Zak/en-AU-Zak_250.wav|en-AU-Zak|can he get back up in time ?
+en-bookbot/en-AU-Zak/en-AU-Zak_251.wav|en-AU-Zak|can it make the strong branch crack ?
+en-bookbot/en-AU-Zak/en-AU-Zak_252.wav|en-AU-Zak|have we found something bad out here ?
+en-bookbot/en-AU-Zak/en-AU-Zak_253.wav|en-AU-Zak|will he land in the right spot ?
+en-bookbot/en-AU-Zak/en-AU-Zak_254.wav|en-AU-Zak|what will he do with the day ?
+en-bookbot/en-AU-Zak/en-AU-Zak_255.wav|en-AU-Zak|what is that coming through the window ?
+en-bookbot/en-AU-Zak/en-AU-Zak_256.wav|en-AU-Zak|did she walk off down the street ?
+en-bookbot/en-AU-Zak/en-AU-Zak_257.wav|en-AU-Zak|we can go to a dry spot ?
+en-bookbot/en-AU-Zak/en-AU-Zak_258.wav|en-AU-Zak|what is he going to cook up ?
+en-bookbot/en-AU-Zak/en-AU-Zak_259.wav|en-AU-Zak|how do we get to a new spot and find food over the dry season ?
+en-bookbot/en-AU-Zak/en-AU-Zak_26.wav|en-AU-Zak|it is hard to find food when the water dries up .
+en-bookbot/en-AU-Zak/en-AU-Zak_260.wav|en-AU-Zak|if she cannot get a pet that will be too tall or stink too much or hug too tight , what kind of pet is it going to be ?
+en-bookbot/en-AU-Zak/en-AU-Zak_261.wav|en-AU-Zak|who would put traps out here to catch the animals ?
+en-bookbot/en-AU-Zak/en-AU-Zak_262.wav|en-AU-Zak|how else will we find out what is going on ?
+en-bookbot/en-AU-Zak/en-AU-Zak_263.wav|en-AU-Zak|what will it look like without all of the muck ?
+en-bookbot/en-AU-Zak/en-AU-Zak_264.wav|en-AU-Zak|can he make a link with one of these animals ?
+en-bookbot/en-AU-Zak/en-AU-Zak_265.wav|en-AU-Zak|would they go crazy when there was a good sale ?
+en-bookbot/en-AU-Zak/en-AU-Zak_266.wav|en-AU-Zak|he takes work off the next day so that we can head out !
+en-bookbot/en-AU-Zak/en-AU-Zak_267.wav|en-AU-Zak|when the sun comes out the next day , she sees that there is a lot to drink !
+en-bookbot/en-AU-Zak/en-AU-Zak_268.wav|en-AU-Zak|and think about how much food they would need to eat !
+en-bookbot/en-AU-Zak/en-AU-Zak_269.wav|en-AU-Zak|there is more than one way to make a rod !
+en-bookbot/en-AU-Zak/en-AU-Zak_27.wav|en-AU-Zak|it feels like she is on the path to something big .
+en-bookbot/en-AU-Zak/en-AU-Zak_270.wav|en-AU-Zak|we can see a human shape in the clouds !
+en-bookbot/en-AU-Zak/en-AU-Zak_271.wav|en-AU-Zak|he wants to be friends with the bird too !
+en-bookbot/en-AU-Zak/en-AU-Zak_272.wav|en-AU-Zak|this hole is more like a mine shaft now !
+en-bookbot/en-AU-Zak/en-AU-Zak_273.wav|en-AU-Zak|he can lift so much food all at once !
+en-bookbot/en-AU-Zak/en-AU-Zak_274.wav|en-AU-Zak|he said that he was the best with a sword in all the land !
+en-bookbot/en-AU-Zak/en-AU-Zak_275.wav|en-AU-Zak|it is so cool to live in the best time so far to understand dinosaurs !
+en-bookbot/en-AU-Zak/en-AU-Zak_276.wav|en-AU-Zak|a dog that can jump up and get the ball in a flash !
+en-bookbot/en-AU-Zak/en-AU-Zak_277.wav|en-AU-Zak|klik tricks the cat with a dog sound !
+en-bookbot/en-AU-Zak/en-AU-Zak_278.wav|en-AU-Zak|we can go on with what we like !
+en-bookbot/en-AU-Zak/en-AU-Zak_279.wav|en-AU-Zak|it is a nice cloth to sit on !
+en-bookbot/en-AU-Zak/en-AU-Zak_28.wav|en-AU-Zak|he says that they should bring it back to his place .
+en-bookbot/en-AU-Zak/en-AU-Zak_280.wav|en-AU-Zak|i can see kites all down my street !
+en-bookbot/en-AU-Zak/en-AU-Zak_281.wav|en-AU-Zak|he gets more of a fright than we thought he would get !
+en-bookbot/en-AU-Zak/en-AU-Zak_282.wav|en-AU-Zak|i did not know that i could find the sea in a book !
+en-bookbot/en-AU-Zak/en-AU-Zak_283.wav|en-AU-Zak|when the jones family got inside , they thought that there might have been a thief !
+en-bookbot/en-AU-Zak/en-AU-Zak_284.wav|en-AU-Zak|the giraffe is unsure that he ever would have been able to get it by himself !
+en-bookbot/en-AU-Zak/en-AU-Zak_285.wav|en-AU-Zak|zom can stay up all night hidden in the garden so that he can catch the pumpkin thief !
+en-bookbot/en-AU-Zak/en-AU-Zak_286.wav|en-AU-Zak|he is going to hide out in the chicken pen overnight and give the fox a scare when it turns up !
+en-bookbot/en-AU-Zak/en-AU-Zak_287.wav|en-AU-Zak|the cat is out in the yard !
+en-bookbot/en-AU-Zak/en-AU-Zak_288.wav|en-AU-Zak|i can not wait to read it !
+en-bookbot/en-AU-Zak/en-AU-Zak_289.wav|en-AU-Zak|he can do the work so well !
+en-bookbot/en-AU-Zak/en-AU-Zak_29.wav|en-AU-Zak|he likes to make things that can think on their own .
+en-bookbot/en-AU-Zak/en-AU-Zak_290.wav|en-AU-Zak|now all he wants is that food !
+en-bookbot/en-AU-Zak/en-AU-Zak_291.wav|en-AU-Zak|i need to look like a magician !
+en-bookbot/en-AU-Zak/en-AU-Zak_292.wav|en-AU-Zak|she sees a fish that can fly !
+en-bookbot/en-AU-Zak/en-AU-Zak_293.wav|en-AU-Zak|she finds a fish in the hole !
+en-bookbot/en-AU-Zak/en-AU-Zak_294.wav|en-AU-Zak|i have got to get that bat !
+en-bookbot/en-AU-Zak/en-AU-Zak_295.wav|en-AU-Zak|now it is time to play ball !
+en-bookbot/en-AU-Zak/en-AU-Zak_296.wav|en-AU-Zak|it is so small that it can fit in a hand !
+en-bookbot/en-AU-Zak/en-AU-Zak_297.wav|en-AU-Zak|hats that go up in the sky !
+en-bookbot/en-AU-Zak/en-AU-Zak_298.wav|en-AU-Zak|i just want to have a nap !
+en-bookbot/en-AU-Zak/en-AU-Zak_299.wav|en-AU-Zak|we can find puddles so that we can make a big splash !
+en-bookbot/en-AU-Zak/en-AU-Zak_3.wav|en-AU-Zak|she is on a mission to find out what the crab likes to eat best .
+en-bookbot/en-AU-Zak/en-AU-Zak_30.wav|en-AU-Zak|he thinks that the cub will get on well with the others .
+en-bookbot/en-AU-Zak/en-AU-Zak_300.wav|en-AU-Zak|the cat wants to grab the fish !
+en-bookbot/en-AU-Zak/en-AU-Zak_301.wav|en-AU-Zak|bub can go up in the sky !
+en-bookbot/en-AU-Zak/en-AU-Zak_302.wav|en-AU-Zak|i hope he knows where he is going !
+en-bookbot/en-AU-Zak/en-AU-Zak_303.wav|en-AU-Zak|it can jump up in a flash !
+en-bookbot/en-AU-Zak/en-AU-Zak_304.wav|en-AU-Zak|this should not be in the lake !
+en-bookbot/en-AU-Zak/en-AU-Zak_305.wav|en-AU-Zak|he has been at work on a pen that can make art with no help !
+en-bookbot/en-AU-Zak/en-AU-Zak_306.wav|en-AU-Zak|this time they see a pig that is up super high !
+en-bookbot/en-AU-Zak/en-AU-Zak_307.wav|en-AU-Zak|when the sun comes out the next day , she walks out to see that the well , creek , tank and dam have all been filled !
+en-bookbot/en-AU-Zak/en-AU-Zak_308.wav|en-AU-Zak|they point to a pig up high and see who can get there first !
+en-bookbot/en-AU-Zak/en-AU-Zak_309.wav|en-AU-Zak|he wants to go out to his tree , but he is too fat to get out !
+en-bookbot/en-AU-Zak/en-AU-Zak_31.wav|en-AU-Zak|she looks out at the town so that she can think .
+en-bookbot/en-AU-Zak/en-AU-Zak_310.wav|en-AU-Zak|we need to go now to get home before dark !
+en-bookbot/en-AU-Zak/en-AU-Zak_311.wav|en-AU-Zak|oh no , he will think that is a treat !
+en-bookbot/en-AU-Zak/en-AU-Zak_312.wav|en-AU-Zak|it is time to come out of their tight homes !
+en-bookbot/en-AU-Zak/en-AU-Zak_313.wav|en-AU-Zak|there is a hive of bees next to this spot !
+en-bookbot/en-AU-Zak/en-AU-Zak_314.wav|en-AU-Zak|we found a good thing in this lake after all !
+en-bookbot/en-AU-Zak/en-AU-Zak_315.wav|en-AU-Zak|i will catch him as much fish as he can eat !
+en-bookbot/en-AU-Zak/en-AU-Zak_316.wav|en-AU-Zak|maybe there are bad things in this lake after all !
+en-bookbot/en-AU-Zak/en-AU-Zak_317.wav|en-AU-Zak|dragon lets out a flame that lights up the night !
+en-bookbot/en-AU-Zak/en-AU-Zak_318.wav|en-AU-Zak|i made my cat out of the food that i drew !
+en-bookbot/en-AU-Zak/en-AU-Zak_319.wav|en-AU-Zak|ma gets me a box .
+en-bookbot/en-AU-Zak/en-AU-Zak_32.wav|en-AU-Zak|she works with a vet to find out what they need .
+en-bookbot/en-AU-Zak/en-AU-Zak_320.wav|en-AU-Zak|the boy yells at the cat .
+en-bookbot/en-AU-Zak/en-AU-Zak_321.wav|en-AU-Zak|she shouts with loud joy .
+en-bookbot/en-AU-Zak/en-AU-Zak_322.wav|en-AU-Zak|said the drop bear .
+en-bookbot/en-AU-Zak/en-AU-Zak_323.wav|en-AU-Zak|asked a little boy .
+en-bookbot/en-AU-Zak/en-AU-Zak_324.wav|en-AU-Zak|she asked in confusion .
+en-bookbot/en-AU-Zak/en-AU-Zak_325.wav|en-AU-Zak|it runs to get the cat .
+en-bookbot/en-AU-Zak/en-AU-Zak_326.wav|en-AU-Zak|she was going to find out .
+en-bookbot/en-AU-Zak/en-AU-Zak_327.wav|en-AU-Zak|the rod is not the best .
+en-bookbot/en-AU-Zak/en-AU-Zak_328.wav|en-AU-Zak|my mum will not be late .
+en-bookbot/en-AU-Zak/en-AU-Zak_329.wav|en-AU-Zak|her toy duck comes to life .
+en-bookbot/en-AU-Zak/en-AU-Zak_33.wav|en-AU-Zak|she is so happy that she is getting along with a dog .
+en-bookbot/en-AU-Zak/en-AU-Zak_330.wav|en-AU-Zak|up in the air they go .
+en-bookbot/en-AU-Zak/en-AU-Zak_331.wav|en-AU-Zak|this cat wants to hop up .
+en-bookbot/en-AU-Zak/en-AU-Zak_332.wav|en-AU-Zak|she will make the best cake .
+en-bookbot/en-AU-Zak/en-AU-Zak_333.wav|en-AU-Zak|and we can still love them .
+en-bookbot/en-AU-Zak/en-AU-Zak_334.wav|en-AU-Zak|she can get water to cook .
+en-bookbot/en-AU-Zak/en-AU-Zak_335.wav|en-AU-Zak|i do not need a nap .
+en-bookbot/en-AU-Zak/en-AU-Zak_336.wav|en-AU-Zak|sam is not himself at all .
+en-bookbot/en-AU-Zak/en-AU-Zak_337.wav|en-AU-Zak|they make my feet look cute .
+en-bookbot/en-AU-Zak/en-AU-Zak_338.wav|en-AU-Zak|his new cap was so cool .
+en-bookbot/en-AU-Zak/en-AU-Zak_339.wav|en-AU-Zak|i can kick the ball hard .
+en-bookbot/en-AU-Zak/en-AU-Zak_34.wav|en-AU-Zak|he looks like he is a bird flying in the sky .
+en-bookbot/en-AU-Zak/en-AU-Zak_340.wav|en-AU-Zak|the spring brought it to him .
+en-bookbot/en-AU-Zak/en-AU-Zak_341.wav|en-AU-Zak|it took some houses with it .
+en-bookbot/en-AU-Zak/en-AU-Zak_342.wav|en-AU-Zak|she leads it to a puddle .
+en-bookbot/en-AU-Zak/en-AU-Zak_343.wav|en-AU-Zak|we can see wheels all over .
+en-bookbot/en-AU-Zak/en-AU-Zak_344.wav|en-AU-Zak|his pals do not like it .
+en-bookbot/en-AU-Zak/en-AU-Zak_345.wav|en-AU-Zak|zom wants to see more bees .
+en-bookbot/en-AU-Zak/en-AU-Zak_346.wav|en-AU-Zak|ada saw a lady watching them .
+en-bookbot/en-AU-Zak/en-AU-Zak_347.wav|en-AU-Zak|a mule can take a lot .
+en-bookbot/en-AU-Zak/en-AU-Zak_348.wav|en-AU-Zak|it is friends with a cat .
+en-bookbot/en-AU-Zak/en-AU-Zak_349.wav|en-AU-Zak|tim gets up in the air .
+en-bookbot/en-AU-Zak/en-AU-Zak_35.wav|en-AU-Zak|no one is safe when he is in the mood to scare .
+en-bookbot/en-AU-Zak/en-AU-Zak_350.wav|en-AU-Zak|he can hear the bees inside .
+en-bookbot/en-AU-Zak/en-AU-Zak_351.wav|en-AU-Zak|there is one on the ball .
+en-bookbot/en-AU-Zak/en-AU-Zak_352.wav|en-AU-Zak|bones jumps up on the bed .
+en-bookbot/en-AU-Zak/en-AU-Zak_353.wav|en-AU-Zak|zom likes to create new things .
+en-bookbot/en-AU-Zak/en-AU-Zak_354.wav|en-AU-Zak|macrovision . luxury . illusionist . univision . euthanasia . provisioning . subversion . indonesias . perfusion . cohesion .
+en-bookbot/en-AU-Zak/en-AU-Zak_355.wav|en-AU-Zak|television . perversion . cashmere . artesian . casual . decision . measurable . seizures . occasion . delusional .
+en-bookbot/en-AU-Zak/en-AU-Zak_356.wav|en-AU-Zak|occlusion . regime . provisional . spectravision . treasure . asian . melanesian . aspersions . infusion . intrusion .
+en-bookbot/en-AU-Zak/en-AU-Zak_357.wav|en-AU-Zak|ellipsoids . ballpoint . decoy . sigmoid . boycott . royale . batboys . bioflavonoid . joyful . envoys .
+en-bookbot/en-AU-Zak/en-AU-Zak_36.wav|en-AU-Zak|this means that they do not have to stay in cold spots where there is not much food .
+en-bookbot/en-AU-Zak/en-AU-Zak_37.wav|en-AU-Zak|they put up their tails to try to keep the rain off .
+en-bookbot/en-AU-Zak/en-AU-Zak_38.wav|en-AU-Zak|he can see what it feels like to not be free .
+en-bookbot/en-AU-Zak/en-AU-Zak_39.wav|en-AU-Zak|that means that it will cook the same all the way through .
+en-bookbot/en-AU-Zak/en-AU-Zak_4.wav|en-AU-Zak|it will be good to have the walk home to help with that too .
+en-bookbot/en-AU-Zak/en-AU-Zak_40.wav|en-AU-Zak|and she can take a trip again any time that she likes .
+en-bookbot/en-AU-Zak/en-AU-Zak_41.wav|en-AU-Zak|she ran off so that she could give him some room .
+en-bookbot/en-AU-Zak/en-AU-Zak_42.wav|en-AU-Zak|we hit the ball up high so that we will be able to send it over the net when we set up a real game .
+en-bookbot/en-AU-Zak/en-AU-Zak_43.wav|en-AU-Zak|jack finds a nice place that is out of the way to put up the bat box .
+en-bookbot/en-AU-Zak/en-AU-Zak_44.wav|en-AU-Zak|these colours can help to break up their shape so that they can hide in the coral .
+en-bookbot/en-AU-Zak/en-AU-Zak_45.wav|en-AU-Zak|jack turned around to try to scoop up his new pet so that they could run away .
+en-bookbot/en-AU-Zak/en-AU-Zak_46.wav|en-AU-Zak|skel says that he will come out and have a look at what is going on .
+en-bookbot/en-AU-Zak/en-AU-Zak_47.wav|en-AU-Zak|if he could just find where he left the lovely yellow bunch and he would be fine again .
+en-bookbot/en-AU-Zak/en-AU-Zak_48.wav|en-AU-Zak|i put them all back in a big box by my bed when they are clean .
+en-bookbot/en-AU-Zak/en-AU-Zak_49.wav|en-AU-Zak|he is a big name in bike fandom , so he must keep his bike in great shape .
+en-bookbot/en-AU-Zak/en-AU-Zak_5.wav|en-AU-Zak|he will have to try hard when he is not in the mood .
+en-bookbot/en-AU-Zak/en-AU-Zak_50.wav|en-AU-Zak|the bird thinks that they would all make great friends .
+en-bookbot/en-AU-Zak/en-AU-Zak_51.wav|en-AU-Zak|here is a van than can help us at sea .
+en-bookbot/en-AU-Zak/en-AU-Zak_52.wav|en-AU-Zak|it could not fly in the sky like a bird .
+en-bookbot/en-AU-Zak/en-AU-Zak_53.wav|en-AU-Zak|some trees get so covered that the vines take over .
+en-bookbot/en-AU-Zak/en-AU-Zak_54.wav|en-AU-Zak|town feels different now that he is not by himself .
+en-bookbot/en-AU-Zak/en-AU-Zak_55.wav|en-AU-Zak|my dad can ride a big bike all by himself .
+en-bookbot/en-AU-Zak/en-AU-Zak_56.wav|en-AU-Zak|he says that there is no need to be mean .
+en-bookbot/en-AU-Zak/en-AU-Zak_57.wav|en-AU-Zak|i feel like the firefly is looking up at the stars .
+en-bookbot/en-AU-Zak/en-AU-Zak_58.wav|en-AU-Zak|crow will find a spot to sing on his own .
+en-bookbot/en-AU-Zak/en-AU-Zak_59.wav|en-AU-Zak|greenery is what they like to munch on the best .
+en-bookbot/en-AU-Zak/en-AU-Zak_6.wav|en-AU-Zak|gran says that she likes to have a few books on the go .
+en-bookbot/en-AU-Zak/en-AU-Zak_60.wav|en-AU-Zak|lights mean that we can still do things after dark .
+en-bookbot/en-AU-Zak/en-AU-Zak_61.wav|en-AU-Zak|it is fun to find things to chew in the yard .
+en-bookbot/en-AU-Zak/en-AU-Zak_62.wav|en-AU-Zak|bug wants to sing a song that is more fun .
+en-bookbot/en-AU-Zak/en-AU-Zak_63.wav|en-AU-Zak|vic says he just needs to give it a try .
+en-bookbot/en-AU-Zak/en-AU-Zak_64.wav|en-AU-Zak|then he will be able to get up to some fun .
+en-bookbot/en-AU-Zak/en-AU-Zak_65.wav|en-AU-Zak|it is so fun to go to a carnival at night .
+en-bookbot/en-AU-Zak/en-AU-Zak_66.wav|en-AU-Zak|we need him to make things that can help us .
+en-bookbot/en-AU-Zak/en-AU-Zak_67.wav|en-AU-Zak|mum gives them a cloth to clean up some more .
+en-bookbot/en-AU-Zak/en-AU-Zak_68.wav|en-AU-Zak|they walk through town to find a good spot to eat .
+en-bookbot/en-AU-Zak/en-AU-Zak_69.wav|en-AU-Zak|he hopes that he will gain some friends this way .
+en-bookbot/en-AU-Zak/en-AU-Zak_7.wav|en-AU-Zak|we must try to hit the ball to a tough spot in the court where they will not be able to hit it back .
+en-bookbot/en-AU-Zak/en-AU-Zak_70.wav|en-AU-Zak|he dives down deep so that he can be safe .
+en-bookbot/en-AU-Zak/en-AU-Zak_71.wav|en-AU-Zak|his dad says that he would love to help him .
+en-bookbot/en-AU-Zak/en-AU-Zak_72.wav|en-AU-Zak|it must be because there was more room to swim .
+en-bookbot/en-AU-Zak/en-AU-Zak_73.wav|en-AU-Zak|that is one way to make a bird think again .
+en-bookbot/en-AU-Zak/en-AU-Zak_74.wav|en-AU-Zak|they make the room seem like it is day time .
+en-bookbot/en-AU-Zak/en-AU-Zak_75.wav|en-AU-Zak|he will have to find a way to make them look .
+en-bookbot/en-AU-Zak/en-AU-Zak_76.wav|en-AU-Zak|they have not been to a farm like this one .
+en-bookbot/en-AU-Zak/en-AU-Zak_77.wav|en-AU-Zak|tim is doing his best not to look at things .
+en-bookbot/en-AU-Zak/en-AU-Zak_78.wav|en-AU-Zak|a hat to have on while they cut that tin .
+en-bookbot/en-AU-Zak/en-AU-Zak_79.wav|en-AU-Zak|she wants to go on a quest to find new things .
+en-bookbot/en-AU-Zak/en-AU-Zak_8.wav|en-AU-Zak|there is a dog in the field that is very much looking like it wants to try a rainbow cake pop .
+en-bookbot/en-AU-Zak/en-AU-Zak_80.wav|en-AU-Zak|their mum will teach them what they need to live .
+en-bookbot/en-AU-Zak/en-AU-Zak_81.wav|en-AU-Zak|spencer helps them go back when the sea is low .
+en-bookbot/en-AU-Zak/en-AU-Zak_82.wav|en-AU-Zak|it is fun to have a mouse in the house .
+en-bookbot/en-AU-Zak/en-AU-Zak_83.wav|en-AU-Zak|some of the cod look like they want to find out what is going on .
+en-bookbot/en-AU-Zak/en-AU-Zak_84.wav|en-AU-Zak|he must take care not to get caught in its net while they catch fish .
+en-bookbot/en-AU-Zak/en-AU-Zak_85.wav|en-AU-Zak|starfang is there when they open the door to come in and have a look .
+en-bookbot/en-AU-Zak/en-AU-Zak_86.wav|en-AU-Zak|he thinks that his flame will be so big that it could turn night into day .
+en-bookbot/en-AU-Zak/en-AU-Zak_87.wav|en-AU-Zak|they try not to make a sound so that mum will not send the pig off .
+en-bookbot/en-AU-Zak/en-AU-Zak_88.wav|en-AU-Zak|he wants to grow up and have a job where he can be outside a lot .
+en-bookbot/en-AU-Zak/en-AU-Zak_89.wav|en-AU-Zak|he must be fit and eat well so that he can keep up with work .
+en-bookbot/en-AU-Zak/en-AU-Zak_9.wav|en-AU-Zak|it is not so bad to be a fish with a frog pal .
+en-bookbot/en-AU-Zak/en-AU-Zak_90.wav|en-AU-Zak|the farmer has cut a path so that they can pick the fruit that the vines grow .
+en-bookbot/en-AU-Zak/en-AU-Zak_91.wav|en-AU-Zak|the husk makes it hard to cut through the coconut and get to what is inside .
+en-bookbot/en-AU-Zak/en-AU-Zak_92.wav|en-AU-Zak|we need to jump up high to hit the ball so that it sails over the net .
+en-bookbot/en-AU-Zak/en-AU-Zak_93.wav|en-AU-Zak|he went home to rest so that he could look when the sun came up .
+en-bookbot/en-AU-Zak/en-AU-Zak_94.wav|en-AU-Zak|we dont go to the swings because we know that he will fling stuff at us with his slingshot .
+en-bookbot/en-AU-Zak/en-AU-Zak_95.wav|en-AU-Zak|aidan is happy enough to at least get that much , and he runs off through the village street , excited to try his new magic wand .
+en-bookbot/en-AU-Zak/en-AU-Zak_96.wav|en-AU-Zak|sometimes they do not want to do what we say .
+en-bookbot/en-AU-Zak/en-AU-Zak_97.wav|en-AU-Zak|he might not get to the stars in the sky .
+en-bookbot/en-AU-Zak/en-AU-Zak_98.wav|en-AU-Zak|it is a fine day to fly my kite .
+en-bookbot/en-AU-Zak/en-AU-Zak_99.wav|en-AU-Zak|you just need some time to work it out .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_0.wav|en-UK-Thalia|he is going to do things to help the animals so that they can see he is a great bird to have around .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_1.wav|en-UK-Thalia|tim is doing his best not to look at the ground so that he can stay on track .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_10.wav|en-UK-Thalia|zom makes a little pen that he can house some rabbits in .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_100.wav|en-UK-Thalia|her red coat will not let the cold in .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_101.wav|en-UK-Thalia|we need to have a day in the yard .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_102.wav|en-UK-Thalia|zom wants to find a way to pass the time while his pal is gone .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_103.wav|en-UK-Thalia|a pup is a dog when it gets big .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_104.wav|en-UK-Thalia|she thinks that it is going to be fun .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_105.wav|en-UK-Thalia|they have so much cod that they dont know what to do with it .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_106.wav|en-UK-Thalia|it looks like it took a big jump and is coming in to land .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_107.wav|en-UK-Thalia|no wonder she feels at home in the water .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_108.wav|en-UK-Thalia|they let us do things when it is dark .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_109.wav|en-UK-Thalia|alex takes the rotten fish to a cave nearby .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_11.wav|en-UK-Thalia|her mum said that they could go down to the sea today .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_110.wav|en-UK-Thalia|she says there is still a lot to do .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_111.wav|en-UK-Thalia|he makes it so a bat can fly in .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_112.wav|en-UK-Thalia|they like being able to duck into a little space where they can be safe and in the dark .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_113.wav|en-UK-Thalia|we need to jump up high to hit the ball .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_114.wav|en-UK-Thalia|it took forever to find it because he could not see where he was going .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_115.wav|en-UK-Thalia|they put out some pails to catch the rain .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_116.wav|en-UK-Thalia|he feels like it is his job to scare .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_117.wav|en-UK-Thalia|she will need to get more to do her job .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_118.wav|en-UK-Thalia|the water that comes out will not hurt us .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_119.wav|en-UK-Thalia|it feels good to have done it all myself .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_12.wav|en-UK-Thalia|the cub can run on the leg when it is all better .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_120.wav|en-UK-Thalia|birds come to see how my wings will go .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_121.wav|en-UK-Thalia|now they will not have to sleep on his bed all of the time .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_122.wav|en-UK-Thalia|it is going to rain up where they live .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_123.wav|en-UK-Thalia|ren lands in a spot on mars where he can get some great rocks to bring home with him .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_124.wav|en-UK-Thalia|they walk through the town looking for a good place to have a bite to eat .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_125.wav|en-UK-Thalia|it jumps at the dog like it is prey .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_126.wav|en-UK-Thalia|i hope now that the sea will stay clean .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_127.wav|en-UK-Thalia|now there is red paint all over the cat .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_128.wav|en-UK-Thalia|we get to play at a high level now .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_129.wav|en-UK-Thalia|i have a lot that i love in my life .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_13.wav|en-UK-Thalia|he hopes that he will be able to stay safe up there .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_130.wav|en-UK-Thalia|frog decides that this will be his new home so that he can look down into the stars every night .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_131.wav|en-UK-Thalia|they will show him great new things to eat .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_132.wav|en-UK-Thalia|a bird might think that they will get sick .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_133.wav|en-UK-Thalia|we need to put in the research now so that they can keep farming to provide us with enough food .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_134.wav|en-UK-Thalia|there is not much water left in the creek .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_135.wav|en-UK-Thalia|if we do not pick them in time , the insects will get to them .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_136.wav|en-UK-Thalia|we should find who put the trash in the lake .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_137.wav|en-UK-Thalia|there must be a way to cook in a pinch .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_138.wav|en-UK-Thalia|crow is in the treetops all by himself now .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_139.wav|en-UK-Thalia|he may be off to town to get his mail .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_14.wav|en-UK-Thalia|ren walks out to the spot where he can get the best rocks .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_140.wav|en-UK-Thalia|the dolphins say they would be glad to see the three pals any time .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_141.wav|en-UK-Thalia|now he cannot find his way back home .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_142.wav|en-UK-Thalia|they still have a long way to go home .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_143.wav|en-UK-Thalia|we dig down in the mud so that we can rest until the rain comes .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_144.wav|en-UK-Thalia|they want me to do it again next week .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_145.wav|en-UK-Thalia|lila takes a break so that she can think .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_146.wav|en-UK-Thalia|nip feels like they might have something in common .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_147.wav|en-UK-Thalia|i am so glad that i have a mum and dad to help me get through everything in my day .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_148.wav|en-UK-Thalia|she is so glad to have a dog pal .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_149.wav|en-UK-Thalia|our goal is to grow all that we eat .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_15.wav|en-UK-Thalia|said a few others as they began to pick up the fish .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_150.wav|en-UK-Thalia|it will seem like we can spread it to kids who are near us .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_151.wav|en-UK-Thalia|they all want it to be their new home .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_152.wav|en-UK-Thalia|they have to make it to the tree so that he can save his brother .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_153.wav|en-UK-Thalia|so it seems there really is just one me .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_154.wav|en-UK-Thalia|it would be a good spot to hide in .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_155.wav|en-UK-Thalia|he must still find out what his cat likes .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_156.wav|en-UK-Thalia|it is not good to let food go to waste .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_157.wav|en-UK-Thalia|he cannot wait until the moon is in the right spot for him to show it his new cap .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_158.wav|en-UK-Thalia|they will not have the same finery on their bodies when they come out .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_159.wav|en-UK-Thalia|tim says that he finds them all hard because the teacher goes so fast .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_16.wav|en-UK-Thalia|her mum is so proud that she gave the sea a try .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_160.wav|en-UK-Thalia|he takes his elephant over to the tree and jumps up onto another branch .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_161.wav|en-UK-Thalia|we want to do something to teach him a lesson .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_162.wav|en-UK-Thalia|soon there is a strong pong in the house .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_163.wav|en-UK-Thalia|he can rest here and the fish will help to get him on the mend .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_164.wav|en-UK-Thalia|anika backs off so that the eel can flee .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_165.wav|en-UK-Thalia|many people believe that the best way to keep clean is to get in a big tub of water .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_166.wav|en-UK-Thalia|he digs plots with good soil so that he can pop the seeds right in when he comes back .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_167.wav|en-UK-Thalia|if it gets too crazy out there , we can find a spot to hide while it pelts down .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_168.wav|en-UK-Thalia|she thinks that it must be a pig because it is so smelly and all covered in mud and dirt .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_169.wav|en-UK-Thalia|but it makes him happy just to see that he can have an effect on peoples lives .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_17.wav|en-UK-Thalia|take some time to look at homes on the internet to get ideas .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_170.wav|en-UK-Thalia|they lead him to a truck so that they can take him to the vet and check out his leg .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_171.wav|en-UK-Thalia|he was lost and found a good spot to wait out the storm .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_172.wav|en-UK-Thalia|you can have a good time even when there is nothing to do .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_173.wav|en-UK-Thalia|there is such a lot going on in town all of the time .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_174.wav|en-UK-Thalia|he had better get back home before she sees that he is gone .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_175.wav|en-UK-Thalia|this is not quite what they thought their farm stay would be like .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_176.wav|en-UK-Thalia|this seems like the perfect spot to bunker down for a good nap .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_177.wav|en-UK-Thalia|some of us live at the back of a shop so where we work .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_178.wav|en-UK-Thalia|she is so upset about the nuts that she cannot think straight .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_179.wav|en-UK-Thalia|it is hard to find food when the lakebed dries up as well .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_18.wav|en-UK-Thalia|i make a hot drink to warm me up when i get home .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_180.wav|en-UK-Thalia|this dog does not look like it wants to be a bird mum .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_181.wav|en-UK-Thalia|he is careful to blow it out when he goes to bed each night .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_182.wav|en-UK-Thalia|they take it to a van so that they can fix its leg .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_183.wav|en-UK-Thalia|but he tells me that he still likes it best when it is just us .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_184.wav|en-UK-Thalia|he looks in the tree and around the tree and still cannot find his breakfast .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_185.wav|en-UK-Thalia|i like to chat to kids that i see on my way home for supper .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_186.wav|en-UK-Thalia|maybe this was going to be more of a problem than he thought .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_187.wav|en-UK-Thalia|i wish that i could ride a bike and go to work with him .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_188.wav|en-UK-Thalia|he sings him a nice song while he gives him a bath to get him ready .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_189.wav|en-UK-Thalia|maybe he is just out to enjoy the moon on this lovely night .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_19.wav|en-UK-Thalia|he get in through a window to see what he can find .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_190.wav|en-UK-Thalia|i get to show off my talents while they have a great time .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_191.wav|en-UK-Thalia|panha transmits a message down to the ground that she is coming back .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_192.wav|en-UK-Thalia|she will chase the bug so that she can have a good look .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_193.wav|en-UK-Thalia|with no food , she will have no energy to run around after them .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_194.wav|en-UK-Thalia|diane wants to find a way that she can keep the world clean .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_195.wav|en-UK-Thalia|they need to catch a live one and eat it on the spot .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_196.wav|en-UK-Thalia|the moon is up and the spook will chase and chase when he is in the mood .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_197.wav|en-UK-Thalia|a best pal tries to help you get good at things that you love .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_198.wav|en-UK-Thalia|they must find a spot where they can go through their big change .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_199.wav|en-UK-Thalia|he must find the best stuff so that he can show his pals .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_2.wav|en-UK-Thalia|their mum says it is good to rest so that they have the energy to do things when they need to .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_20.wav|en-UK-Thalia|it is time to go home so he will not be late .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_200.wav|en-UK-Thalia|the bees do not want to hang out , but zom is glad to be near them in a way that they like .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_201.wav|en-UK-Thalia|she is not by the shrubs at the back .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_202.wav|en-UK-Thalia|here is a job that she can do .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_203.wav|en-UK-Thalia|but he was made to do big things .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_204.wav|en-UK-Thalia|i think we need to be slow now .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_205.wav|en-UK-Thalia|dragon is so good he gets a job .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_206.wav|en-UK-Thalia|skink was already deep in the beasts den .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_207.wav|en-UK-Thalia|pas says this pot is the best .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_208.wav|en-UK-Thalia|the fish said that it would teach him .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_209.wav|en-UK-Thalia|a cat got at the rot in the log .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_21.wav|en-UK-Thalia|they do not need big companies to give them their approval .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_210.wav|en-UK-Thalia|this spook is not in the mood to spook .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_211.wav|en-UK-Thalia|we hide in a cave to keep dry .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_212.wav|en-UK-Thalia|he will set a flame under the pot .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_213.wav|en-UK-Thalia|is there different way that he can grab the cod so that he can make some lunch ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_214.wav|en-UK-Thalia|are there things with no wings that can still be up in the sky ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_215.wav|en-UK-Thalia|i wonder what he is going to get up to when the sun is up again ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_216.wav|en-UK-Thalia|or would they break the things that we have made ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_217.wav|en-UK-Thalia|can things with no wings be up in the sky ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_218.wav|en-UK-Thalia|will it try to get us when we go by ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_219.wav|en-UK-Thalia|just how big was this beast going to be ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_22.wav|en-UK-Thalia|his friends have moved on so that they could stay safe .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_220.wav|en-UK-Thalia|maybe we can see how we go with each book ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_221.wav|en-UK-Thalia|was this why it was hard to find friends ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_222.wav|en-UK-Thalia|what will happen to these things along the way ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_223.wav|en-UK-Thalia|who is the kite going to pick up next ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_224.wav|en-UK-Thalia|is there anything that might get in the way ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_225.wav|en-UK-Thalia|what is he going to do with it all ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_226.wav|en-UK-Thalia|is she going to keep interacting with it ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_227.wav|en-UK-Thalia|why was a pig even up this high ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_228.wav|en-UK-Thalia|is this branch the spot that it wants ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_229.wav|en-UK-Thalia|what was a pig doing up so high ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_23.wav|en-UK-Thalia|it is like they have more life than they have in a while .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_230.wav|en-UK-Thalia|is there a new way to do this ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_231.wav|en-UK-Thalia|does he means to set up a shop ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_232.wav|en-UK-Thalia|now what will he make with his cod ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_233.wav|en-UK-Thalia|does it want to flip the tin and see what is inside ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_234.wav|en-UK-Thalia|can we still find a way to know how heavy it is ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_235.wav|en-UK-Thalia|will the bird be able to get back in time to defend the nest ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_236.wav|en-UK-Thalia|is it going to be something that will make the bats feel more welcome on the farm ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_237.wav|en-UK-Thalia|he crouches on the ground when he plays some games , but is he playing now ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_238.wav|en-UK-Thalia|has it been on a long flight ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_239.wav|en-UK-Thalia|we just spent all day at school and now we have to sit through more ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_24.wav|en-UK-Thalia|the lady said , pointing to a bird before running off .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_240.wav|en-UK-Thalia|what fun is in the next yard ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_241.wav|en-UK-Thalia|how was he going to get down ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_242.wav|en-UK-Thalia|what will the cat want to bat ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_243.wav|en-UK-Thalia|is there anything that doesnt have wings that can still be up in the sky ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_244.wav|en-UK-Thalia|is there any water in the pail ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_245.wav|en-UK-Thalia|will it move when the people want to go to sleep too ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_246.wav|en-UK-Thalia|what is he going to do when his mum goes to work ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_247.wav|en-UK-Thalia|does he want to have a game ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_248.wav|en-UK-Thalia|can beasts that do not have wings still get up into the sky and fly ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_249.wav|en-UK-Thalia|how do they find where to go ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_25.wav|en-UK-Thalia|it is the dog that lives on the farm near this field .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_250.wav|en-UK-Thalia|can he get back up in time ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_251.wav|en-UK-Thalia|can it make the strong branch crack ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_252.wav|en-UK-Thalia|have we found something bad out here ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_253.wav|en-UK-Thalia|will he land in the right spot ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_254.wav|en-UK-Thalia|what will he do with the day ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_255.wav|en-UK-Thalia|what is that coming through the window ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_256.wav|en-UK-Thalia|did she walk off down the street ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_257.wav|en-UK-Thalia|we can go to a dry spot ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_258.wav|en-UK-Thalia|what is he going to cook up ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_259.wav|en-UK-Thalia|how do we get to a new spot and find food over the dry season ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_26.wav|en-UK-Thalia|it is hard to find food when the water dries up .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_260.wav|en-UK-Thalia|if she cannot get a pet that will be too tall or stink too much or hug too tight , what kind of pet is it going to be ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_261.wav|en-UK-Thalia|who would put traps out here to catch the animals ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_262.wav|en-UK-Thalia|how else will we find out what is going on ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_263.wav|en-UK-Thalia|what will it look like without all of the muck ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_264.wav|en-UK-Thalia|can he make a link with one of these animals ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_265.wav|en-UK-Thalia|would they go crazy when there was a good sale ?
+en-bookbot/en-UK-Thalia/en-UK-Thalia_266.wav|en-UK-Thalia|he takes work off the next day so that we can head out !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_267.wav|en-UK-Thalia|when the sun comes out the next day , she sees that there is a lot to drink !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_268.wav|en-UK-Thalia|and think about how much food they would need to eat !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_269.wav|en-UK-Thalia|there is more than one way to make a rod !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_27.wav|en-UK-Thalia|it feels like she is on the path to something big .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_270.wav|en-UK-Thalia|we can see a human shape in the clouds !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_271.wav|en-UK-Thalia|he wants to be friends with the bird too !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_272.wav|en-UK-Thalia|this hole is more like a mine shaft now !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_273.wav|en-UK-Thalia|he can lift so much food all at once !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_274.wav|en-UK-Thalia|he said that he was the best with a sword in all the land !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_275.wav|en-UK-Thalia|it is so cool to live in the best time so far to understand dinosaurs !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_276.wav|en-UK-Thalia|a dog that can jump up and get the ball in a flash !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_277.wav|en-UK-Thalia|klik tricks the cat with a dog sound !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_278.wav|en-UK-Thalia|we can go on with what we like !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_279.wav|en-UK-Thalia|it is a nice cloth to sit on !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_28.wav|en-UK-Thalia|he says that they should bring it back to his place .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_280.wav|en-UK-Thalia|i can see kites all down my street !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_281.wav|en-UK-Thalia|he gets more of a fright than we thought he would get !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_282.wav|en-UK-Thalia|i did not know that i could find the sea in a book !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_283.wav|en-UK-Thalia|when the jones family got inside , they thought that there might have been a thief !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_284.wav|en-UK-Thalia|the giraffe is unsure that he ever would have been able to get it by himself !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_285.wav|en-UK-Thalia|zom can stay up all night hidden in the garden so that he can catch the pumpkin thief !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_286.wav|en-UK-Thalia|he is going to hide out in the chicken pen overnight and give the fox a scare when it turns up !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_287.wav|en-UK-Thalia|the cat is out in the yard !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_288.wav|en-UK-Thalia|i can not wait to read it !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_289.wav|en-UK-Thalia|he can do the work so well !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_29.wav|en-UK-Thalia|he likes to make things that can think on their own .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_290.wav|en-UK-Thalia|now all he wants is that food !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_291.wav|en-UK-Thalia|i need to look like a magician !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_292.wav|en-UK-Thalia|she sees a fish that can fly !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_293.wav|en-UK-Thalia|she finds a fish in the hole !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_294.wav|en-UK-Thalia|i have got to get that bat !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_295.wav|en-UK-Thalia|now it is time to play ball !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_296.wav|en-UK-Thalia|it is so small that it can fit in a hand !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_297.wav|en-UK-Thalia|hats that go up in the sky !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_298.wav|en-UK-Thalia|i just want to have a nap !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_299.wav|en-UK-Thalia|we can find puddles so that we can make a big splash !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_3.wav|en-UK-Thalia|she is on a mission to find out what the crab likes to eat best .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_30.wav|en-UK-Thalia|he thinks that the cub will get on well with the others .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_300.wav|en-UK-Thalia|the cat wants to grab the fish !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_301.wav|en-UK-Thalia|bub can go up in the sky !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_302.wav|en-UK-Thalia|i hope he knows where he is going !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_303.wav|en-UK-Thalia|it can jump up in a flash !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_304.wav|en-UK-Thalia|this should not be in the lake !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_305.wav|en-UK-Thalia|he has been at work on a pen that can make art with no help !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_306.wav|en-UK-Thalia|this time they see a pig that is up super high !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_307.wav|en-UK-Thalia|when the sun comes out the next day , she walks out to see that the well , creek , tank and dam have all been filled !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_308.wav|en-UK-Thalia|they point to a pig up high and see who can get there first !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_309.wav|en-UK-Thalia|he wants to go out to his tree , but he is too fat to get out !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_31.wav|en-UK-Thalia|she looks out at the town so that she can think .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_310.wav|en-UK-Thalia|we need to go now to get home before dark !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_311.wav|en-UK-Thalia|oh no , he will think that is a treat !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_312.wav|en-UK-Thalia|it is time to come out of their tight homes !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_313.wav|en-UK-Thalia|there is a hive of bees next to this spot !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_314.wav|en-UK-Thalia|we found a good thing in this lake after all !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_315.wav|en-UK-Thalia|i will catch him as much fish as he can eat !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_316.wav|en-UK-Thalia|maybe there are bad things in this lake after all !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_317.wav|en-UK-Thalia|dragon lets out a flame that lights up the night !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_318.wav|en-UK-Thalia|i made my cat out of the food that i drew !
+en-bookbot/en-UK-Thalia/en-UK-Thalia_319.wav|en-UK-Thalia|ma gets me a box .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_32.wav|en-UK-Thalia|she works with a vet to find out what they need .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_320.wav|en-UK-Thalia|the boy yells at the cat .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_321.wav|en-UK-Thalia|she shouts with loud joy .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_322.wav|en-UK-Thalia|said the drop bear .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_323.wav|en-UK-Thalia|asked a little boy .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_324.wav|en-UK-Thalia|she asked in confusion .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_325.wav|en-UK-Thalia|it runs to get the cat .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_326.wav|en-UK-Thalia|she was going to find out .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_327.wav|en-UK-Thalia|the rod is not the best .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_328.wav|en-UK-Thalia|my mum will not be late .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_329.wav|en-UK-Thalia|her toy duck comes to life .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_33.wav|en-UK-Thalia|she is so happy that she is getting along with a dog .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_330.wav|en-UK-Thalia|up in the air they go .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_331.wav|en-UK-Thalia|this cat wants to hop up .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_332.wav|en-UK-Thalia|she will make the best cake .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_333.wav|en-UK-Thalia|and we can still love them .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_334.wav|en-UK-Thalia|she can get water to cook .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_335.wav|en-UK-Thalia|i do not need a nap .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_336.wav|en-UK-Thalia|sam is not himself at all .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_337.wav|en-UK-Thalia|they make my feet look cute .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_338.wav|en-UK-Thalia|his new cap was so cool .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_339.wav|en-UK-Thalia|i can kick the ball hard .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_34.wav|en-UK-Thalia|he looks like he is a bird flying in the sky .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_340.wav|en-UK-Thalia|the spring brought it to him .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_341.wav|en-UK-Thalia|it took some houses with it .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_342.wav|en-UK-Thalia|she leads it to a puddle .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_343.wav|en-UK-Thalia|we can see wheels all over .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_344.wav|en-UK-Thalia|his pals do not like it .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_345.wav|en-UK-Thalia|zom wants to see more bees .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_346.wav|en-UK-Thalia|ada saw a lady watching them .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_347.wav|en-UK-Thalia|a mule can take a lot .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_348.wav|en-UK-Thalia|it is friends with a cat .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_349.wav|en-UK-Thalia|tim gets up in the air .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_35.wav|en-UK-Thalia|no one is safe when he is in the mood to scare .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_350.wav|en-UK-Thalia|he can hear the bees inside .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_351.wav|en-UK-Thalia|there is one on the ball .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_352.wav|en-UK-Thalia|bones jumps up on the bed .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_353.wav|en-UK-Thalia|zom likes to create new things .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_354.wav|en-UK-Thalia|macrovision . luxury . illusionist . univision . euthanasia . provisioning . subversion . indonesias . perfusion . cohesion .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_355.wav|en-UK-Thalia|television . perversion . cashmere . artesian . casual . decision . measurable . seizures . occasion . delusional .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_356.wav|en-UK-Thalia|occlusion . regime . provisional . spectravision . treasure . asian . melanesian . aspersions . infusion . intrusion .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_357.wav|en-UK-Thalia|ellipsoids . ballpoint . decoy . sigmoid . boycott . royale . batboys . bioflavonoid . joyful . envoys .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_36.wav|en-UK-Thalia|this means that they do not have to stay in cold spots where there is not much food .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_37.wav|en-UK-Thalia|they put up their tails to try to keep the rain off .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_38.wav|en-UK-Thalia|he can see what it feels like to not be free .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_39.wav|en-UK-Thalia|that means that it will cook the same all the way through .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_4.wav|en-UK-Thalia|it will be good to have the walk home to help with that too .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_40.wav|en-UK-Thalia|and she can take a trip again any time that she likes .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_41.wav|en-UK-Thalia|she ran off so that she could give him some room .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_42.wav|en-UK-Thalia|we hit the ball up high so that we will be able to send it over the net when we set up a real game .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_43.wav|en-UK-Thalia|jack finds a nice place that is out of the way to put up the bat box .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_44.wav|en-UK-Thalia|these colours can help to break up their shape so that they can hide in the coral .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_45.wav|en-UK-Thalia|jack turned around to try to scoop up his new pet so that they could run away .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_46.wav|en-UK-Thalia|skel says that he will come out and have a look at what is going on .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_47.wav|en-UK-Thalia|if he could just find where he left the lovely yellow bunch and he would be fine again .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_48.wav|en-UK-Thalia|i put them all back in a big box by my bed when they are clean .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_49.wav|en-UK-Thalia|he is a big name in bike fandom , so he must keep his bike in great shape .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_5.wav|en-UK-Thalia|he will have to try hard when he is not in the mood .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_50.wav|en-UK-Thalia|the bird thinks that they would all make great friends .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_51.wav|en-UK-Thalia|here is a van than can help us at sea .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_52.wav|en-UK-Thalia|it could not fly in the sky like a bird .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_53.wav|en-UK-Thalia|some trees get so covered that the vines take over .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_54.wav|en-UK-Thalia|town feels different now that he is not by himself .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_55.wav|en-UK-Thalia|my dad can ride a big bike all by himself .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_56.wav|en-UK-Thalia|he says that there is no need to be mean .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_57.wav|en-UK-Thalia|i feel like the firefly is looking up at the stars .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_58.wav|en-UK-Thalia|crow will find a spot to sing on his own .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_59.wav|en-UK-Thalia|greenery is what they like to munch on the best .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_6.wav|en-UK-Thalia|gran says that she likes to have a few books on the go .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_60.wav|en-UK-Thalia|lights mean that we can still do things after dark .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_61.wav|en-UK-Thalia|it is fun to find things to chew in the yard .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_62.wav|en-UK-Thalia|bug wants to sing a song that is more fun .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_63.wav|en-UK-Thalia|vic says he just needs to give it a try .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_64.wav|en-UK-Thalia|then he will be able to get up to some fun .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_65.wav|en-UK-Thalia|it is so fun to go to a carnival at night .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_66.wav|en-UK-Thalia|we need him to make things that can help us .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_67.wav|en-UK-Thalia|mum gives them a cloth to clean up some more .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_68.wav|en-UK-Thalia|they walk through town to find a good spot to eat .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_69.wav|en-UK-Thalia|he hopes that he will gain some friends this way .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_7.wav|en-UK-Thalia|we must try to hit the ball to a tough spot in the court where they will not be able to hit it back .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_70.wav|en-UK-Thalia|he dives down deep so that he can be safe .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_71.wav|en-UK-Thalia|his dad says that he would love to help him .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_72.wav|en-UK-Thalia|it must be because there was more room to swim .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_73.wav|en-UK-Thalia|that is one way to make a bird think again .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_74.wav|en-UK-Thalia|they make the room seem like it is day time .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_75.wav|en-UK-Thalia|he will have to find a way to make them look .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_76.wav|en-UK-Thalia|they have not been to a farm like this one .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_77.wav|en-UK-Thalia|tim is doing his best not to look at things .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_78.wav|en-UK-Thalia|a hat to have on while they cut that tin .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_79.wav|en-UK-Thalia|she wants to go on a quest to find new things .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_8.wav|en-UK-Thalia|there is a dog in the field that is very much looking like it wants to try a rainbow cake pop .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_80.wav|en-UK-Thalia|their mum will teach them what they need to live .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_81.wav|en-UK-Thalia|spencer helps them go back when the sea is low .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_82.wav|en-UK-Thalia|it is fun to have a mouse in the house .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_83.wav|en-UK-Thalia|some of the cod look like they want to find out what is going on .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_84.wav|en-UK-Thalia|he must take care not to get caught in its net while they catch fish .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_85.wav|en-UK-Thalia|starfang is there when they open the door to come in and have a look .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_86.wav|en-UK-Thalia|he thinks that his flame will be so big that it could turn night into day .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_87.wav|en-UK-Thalia|they try not to make a sound so that mum will not send the pig off .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_88.wav|en-UK-Thalia|he wants to grow up and have a job where he can be outside a lot .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_89.wav|en-UK-Thalia|he must be fit and eat well so that he can keep up with work .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_9.wav|en-UK-Thalia|it is not so bad to be a fish with a frog pal .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_90.wav|en-UK-Thalia|the farmer has cut a path so that they can pick the fruit that the vines grow .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_91.wav|en-UK-Thalia|the husk makes it hard to cut through the coconut and get to what is inside .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_92.wav|en-UK-Thalia|we need to jump up high to hit the ball so that it sails over the net .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_93.wav|en-UK-Thalia|he went home to rest so that he could look when the sun came up .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_94.wav|en-UK-Thalia|we dont go to the swings because we know that he will fling stuff at us with his slingshot .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_95.wav|en-UK-Thalia|aidan is happy enough to at least get that much , and he runs off through the village street , excited to try his new magic wand .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_96.wav|en-UK-Thalia|sometimes they do not want to do what we say .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_97.wav|en-UK-Thalia|he might not get to the stars in the sky .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_98.wav|en-UK-Thalia|it is a fine day to fly my kite .
+en-bookbot/en-UK-Thalia/en-UK-Thalia_99.wav|en-UK-Thalia|you just need some time to work it out .
+en-bookbot/en-US-Madison/en-US-Madison_0.wav|en-US-Madison|he is going to do things to help the animals so that they can see he is a great bird to have around .
+en-bookbot/en-US-Madison/en-US-Madison_1.wav|en-US-Madison|tim is doing his best not to look at the ground so that he can stay on track .
+en-bookbot/en-US-Madison/en-US-Madison_10.wav|en-US-Madison|zom makes a little pen that he can house some rabbits in .
+en-bookbot/en-US-Madison/en-US-Madison_100.wav|en-US-Madison|her red coat will not let the cold in .
+en-bookbot/en-US-Madison/en-US-Madison_101.wav|en-US-Madison|we need to have a day in the yard .
+en-bookbot/en-US-Madison/en-US-Madison_102.wav|en-US-Madison|zom wants to find a way to pass the time while his pal is gone .
+en-bookbot/en-US-Madison/en-US-Madison_103.wav|en-US-Madison|a pup is a dog when it gets big .
+en-bookbot/en-US-Madison/en-US-Madison_104.wav|en-US-Madison|she thinks that it is going to be fun .
+en-bookbot/en-US-Madison/en-US-Madison_105.wav|en-US-Madison|they have so much cod that they dont know what to do with it .
+en-bookbot/en-US-Madison/en-US-Madison_106.wav|en-US-Madison|it looks like it took a big jump and is coming in to land .
+en-bookbot/en-US-Madison/en-US-Madison_107.wav|en-US-Madison|no wonder she feels at home in the water .
+en-bookbot/en-US-Madison/en-US-Madison_108.wav|en-US-Madison|they let us do things when it is dark .
+en-bookbot/en-US-Madison/en-US-Madison_109.wav|en-US-Madison|alex takes the rotten fish to a cave nearby .
+en-bookbot/en-US-Madison/en-US-Madison_11.wav|en-US-Madison|her mum said that they could go down to the sea today .
+en-bookbot/en-US-Madison/en-US-Madison_110.wav|en-US-Madison|she says there is still a lot to do .
+en-bookbot/en-US-Madison/en-US-Madison_111.wav|en-US-Madison|he makes it so a bat can fly in .
+en-bookbot/en-US-Madison/en-US-Madison_112.wav|en-US-Madison|they like being able to duck into a little space where they can be safe and in the dark .
+en-bookbot/en-US-Madison/en-US-Madison_113.wav|en-US-Madison|we need to jump up high to hit the ball .
+en-bookbot/en-US-Madison/en-US-Madison_114.wav|en-US-Madison|it took forever to find it because he could not see where he was going .
+en-bookbot/en-US-Madison/en-US-Madison_115.wav|en-US-Madison|they put out some pails to catch the rain .
+en-bookbot/en-US-Madison/en-US-Madison_116.wav|en-US-Madison|he feels like it is his job to scare .
+en-bookbot/en-US-Madison/en-US-Madison_117.wav|en-US-Madison|she will need to get more to do her job .
+en-bookbot/en-US-Madison/en-US-Madison_118.wav|en-US-Madison|the water that comes out will not hurt us .
+en-bookbot/en-US-Madison/en-US-Madison_119.wav|en-US-Madison|it feels good to have done it all myself .
+en-bookbot/en-US-Madison/en-US-Madison_12.wav|en-US-Madison|the cub can run on the leg when it is all better .
+en-bookbot/en-US-Madison/en-US-Madison_120.wav|en-US-Madison|birds come to see how my wings will go .
+en-bookbot/en-US-Madison/en-US-Madison_121.wav|en-US-Madison|now they will not have to sleep on his bed all of the time .
+en-bookbot/en-US-Madison/en-US-Madison_122.wav|en-US-Madison|it is going to rain up where they live .
+en-bookbot/en-US-Madison/en-US-Madison_123.wav|en-US-Madison|ren lands in a spot on mars where he can get some great rocks to bring home with him .
+en-bookbot/en-US-Madison/en-US-Madison_124.wav|en-US-Madison|they walk through the town looking for a good place to have a bite to eat .
+en-bookbot/en-US-Madison/en-US-Madison_125.wav|en-US-Madison|it jumps at the dog like it is prey .
+en-bookbot/en-US-Madison/en-US-Madison_126.wav|en-US-Madison|i hope now that the sea will stay clean .
+en-bookbot/en-US-Madison/en-US-Madison_127.wav|en-US-Madison|now there is red paint all over the cat .
+en-bookbot/en-US-Madison/en-US-Madison_128.wav|en-US-Madison|we get to play at a high level now .
+en-bookbot/en-US-Madison/en-US-Madison_129.wav|en-US-Madison|i have a lot that i love in my life .
+en-bookbot/en-US-Madison/en-US-Madison_13.wav|en-US-Madison|he hopes that he will be able to stay safe up there .
+en-bookbot/en-US-Madison/en-US-Madison_130.wav|en-US-Madison|frog decides that this will be his new home so that he can look down into the stars every night .
+en-bookbot/en-US-Madison/en-US-Madison_131.wav|en-US-Madison|they will show him great new things to eat .
+en-bookbot/en-US-Madison/en-US-Madison_132.wav|en-US-Madison|a bird might think that they will get sick .
+en-bookbot/en-US-Madison/en-US-Madison_133.wav|en-US-Madison|we need to put in the research now so that they can keep farming to provide us with enough food .
+en-bookbot/en-US-Madison/en-US-Madison_134.wav|en-US-Madison|there is not much water left in the creek .
+en-bookbot/en-US-Madison/en-US-Madison_135.wav|en-US-Madison|if we do not pick them in time , the insects will get to them .
+en-bookbot/en-US-Madison/en-US-Madison_136.wav|en-US-Madison|we should find who put the trash in the lake .
+en-bookbot/en-US-Madison/en-US-Madison_137.wav|en-US-Madison|there must be a way to cook in a pinch .
+en-bookbot/en-US-Madison/en-US-Madison_138.wav|en-US-Madison|crow is in the treetops all by himself now .
+en-bookbot/en-US-Madison/en-US-Madison_139.wav|en-US-Madison|he may be off to town to get his mail .
+en-bookbot/en-US-Madison/en-US-Madison_14.wav|en-US-Madison|ren walks out to the spot where he can get the best rocks .
+en-bookbot/en-US-Madison/en-US-Madison_140.wav|en-US-Madison|the dolphins say they would be glad to see the three pals any time .
+en-bookbot/en-US-Madison/en-US-Madison_141.wav|en-US-Madison|now he cannot find his way back home .
+en-bookbot/en-US-Madison/en-US-Madison_142.wav|en-US-Madison|they still have a long way to go home .
+en-bookbot/en-US-Madison/en-US-Madison_143.wav|en-US-Madison|we dig down in the mud so that we can rest until the rain comes .
+en-bookbot/en-US-Madison/en-US-Madison_144.wav|en-US-Madison|they want me to do it again next week .
+en-bookbot/en-US-Madison/en-US-Madison_145.wav|en-US-Madison|lila takes a break so that she can think .
+en-bookbot/en-US-Madison/en-US-Madison_146.wav|en-US-Madison|nip feels like they might have something in common .
+en-bookbot/en-US-Madison/en-US-Madison_147.wav|en-US-Madison|i am so glad that i have a mum and dad to help me get through everything in my day .
+en-bookbot/en-US-Madison/en-US-Madison_148.wav|en-US-Madison|she is so glad to have a dog pal .
+en-bookbot/en-US-Madison/en-US-Madison_149.wav|en-US-Madison|our goal is to grow all that we eat .
+en-bookbot/en-US-Madison/en-US-Madison_15.wav|en-US-Madison|said a few others as they began to pick up the fish .
+en-bookbot/en-US-Madison/en-US-Madison_150.wav|en-US-Madison|it will seem like we can spread it to kids who are near us .
+en-bookbot/en-US-Madison/en-US-Madison_151.wav|en-US-Madison|they all want it to be their new home .
+en-bookbot/en-US-Madison/en-US-Madison_152.wav|en-US-Madison|they have to make it to the tree so that he can save his brother .
+en-bookbot/en-US-Madison/en-US-Madison_153.wav|en-US-Madison|so it seems there really is just one me .
+en-bookbot/en-US-Madison/en-US-Madison_154.wav|en-US-Madison|it would be a good spot to hide in .
+en-bookbot/en-US-Madison/en-US-Madison_155.wav|en-US-Madison|he must still find out what his cat likes .
+en-bookbot/en-US-Madison/en-US-Madison_156.wav|en-US-Madison|it is not good to let food go to waste .
+en-bookbot/en-US-Madison/en-US-Madison_157.wav|en-US-Madison|he cannot wait until the moon is in the right spot for him to show it his new cap .
+en-bookbot/en-US-Madison/en-US-Madison_158.wav|en-US-Madison|they will not have the same finery on their bodies when they come out .
+en-bookbot/en-US-Madison/en-US-Madison_159.wav|en-US-Madison|tim says that he finds them all hard because the teacher goes so fast .
+en-bookbot/en-US-Madison/en-US-Madison_16.wav|en-US-Madison|her mum is so proud that she gave the sea a try .
+en-bookbot/en-US-Madison/en-US-Madison_160.wav|en-US-Madison|he takes his elephant over to the tree and jumps up onto another branch .
+en-bookbot/en-US-Madison/en-US-Madison_161.wav|en-US-Madison|we want to do something to teach him a lesson .
+en-bookbot/en-US-Madison/en-US-Madison_162.wav|en-US-Madison|soon there is a strong pong in the house .
+en-bookbot/en-US-Madison/en-US-Madison_163.wav|en-US-Madison|he can rest here and the fish will help to get him on the mend .
+en-bookbot/en-US-Madison/en-US-Madison_164.wav|en-US-Madison|anika backs off so that the eel can flee .
+en-bookbot/en-US-Madison/en-US-Madison_165.wav|en-US-Madison|many people believe that the best way to keep clean is to get in a big tub of water .
+en-bookbot/en-US-Madison/en-US-Madison_166.wav|en-US-Madison|he digs plots with good soil so that he can pop the seeds right in when he comes back .
+en-bookbot/en-US-Madison/en-US-Madison_167.wav|en-US-Madison|if it gets too crazy out there , we can find a spot to hide while it pelts down .
+en-bookbot/en-US-Madison/en-US-Madison_168.wav|en-US-Madison|she thinks that it must be a pig because it is so smelly and all covered in mud and dirt .
+en-bookbot/en-US-Madison/en-US-Madison_169.wav|en-US-Madison|but it makes him happy just to see that he can have an effect on peoples lives .
+en-bookbot/en-US-Madison/en-US-Madison_17.wav|en-US-Madison|take some time to look at homes on the internet to get ideas .
+en-bookbot/en-US-Madison/en-US-Madison_170.wav|en-US-Madison|they lead him to a truck so that they can take him to the vet and check out his leg .
+en-bookbot/en-US-Madison/en-US-Madison_171.wav|en-US-Madison|he was lost and found a good spot to wait out the storm .
+en-bookbot/en-US-Madison/en-US-Madison_172.wav|en-US-Madison|you can have a good time even when there is nothing to do .
+en-bookbot/en-US-Madison/en-US-Madison_173.wav|en-US-Madison|there is such a lot going on in town all of the time .
+en-bookbot/en-US-Madison/en-US-Madison_174.wav|en-US-Madison|he had better get back home before she sees that he is gone .
+en-bookbot/en-US-Madison/en-US-Madison_175.wav|en-US-Madison|this is not quite what they thought their farm stay would be like .
+en-bookbot/en-US-Madison/en-US-Madison_176.wav|en-US-Madison|this seems like the perfect spot to bunker down for a good nap .
+en-bookbot/en-US-Madison/en-US-Madison_177.wav|en-US-Madison|some of us live at the back of a shop so where we work .
+en-bookbot/en-US-Madison/en-US-Madison_178.wav|en-US-Madison|she is so upset about the nuts that she cannot think straight .
+en-bookbot/en-US-Madison/en-US-Madison_179.wav|en-US-Madison|it is hard to find food when the lakebed dries up as well .
+en-bookbot/en-US-Madison/en-US-Madison_18.wav|en-US-Madison|i make a hot drink to warm me up when i get home .
+en-bookbot/en-US-Madison/en-US-Madison_180.wav|en-US-Madison|this dog does not look like it wants to be a bird mum .
+en-bookbot/en-US-Madison/en-US-Madison_181.wav|en-US-Madison|he is careful to blow it out when he goes to bed each night .
+en-bookbot/en-US-Madison/en-US-Madison_182.wav|en-US-Madison|they take it to a van so that they can fix its leg .
+en-bookbot/en-US-Madison/en-US-Madison_183.wav|en-US-Madison|but he tells me that he still likes it best when it is just us .
+en-bookbot/en-US-Madison/en-US-Madison_184.wav|en-US-Madison|he looks in the tree and around the tree and still cannot find his breakfast .
+en-bookbot/en-US-Madison/en-US-Madison_185.wav|en-US-Madison|i like to chat to kids that i see on my way home for supper .
+en-bookbot/en-US-Madison/en-US-Madison_186.wav|en-US-Madison|maybe this was going to be more of a problem than he thought .
+en-bookbot/en-US-Madison/en-US-Madison_187.wav|en-US-Madison|i wish that i could ride a bike and go to work with him .
+en-bookbot/en-US-Madison/en-US-Madison_188.wav|en-US-Madison|he sings him a nice song while he gives him a bath to get him ready .
+en-bookbot/en-US-Madison/en-US-Madison_189.wav|en-US-Madison|maybe he is just out to enjoy the moon on this lovely night .
+en-bookbot/en-US-Madison/en-US-Madison_19.wav|en-US-Madison|he get in through a window to see what he can find .
+en-bookbot/en-US-Madison/en-US-Madison_190.wav|en-US-Madison|i get to show off my talents while they have a great time .
+en-bookbot/en-US-Madison/en-US-Madison_191.wav|en-US-Madison|panha transmits a message down to the ground that she is coming back .
+en-bookbot/en-US-Madison/en-US-Madison_192.wav|en-US-Madison|she will chase the bug so that she can have a good look .
+en-bookbot/en-US-Madison/en-US-Madison_193.wav|en-US-Madison|with no food , she will have no energy to run around after them .
+en-bookbot/en-US-Madison/en-US-Madison_194.wav|en-US-Madison|diane wants to find a way that she can keep the world clean .
+en-bookbot/en-US-Madison/en-US-Madison_195.wav|en-US-Madison|they need to catch a live one and eat it on the spot .
+en-bookbot/en-US-Madison/en-US-Madison_196.wav|en-US-Madison|the moon is up and the spook will chase and chase when he is in the mood .
+en-bookbot/en-US-Madison/en-US-Madison_197.wav|en-US-Madison|a best pal tries to help you get good at things that you love .
+en-bookbot/en-US-Madison/en-US-Madison_198.wav|en-US-Madison|they must find a spot where they can go through their big change .
+en-bookbot/en-US-Madison/en-US-Madison_199.wav|en-US-Madison|he must find the best stuff so that he can show his pals .
+en-bookbot/en-US-Madison/en-US-Madison_2.wav|en-US-Madison|their mum says it is good to rest so that they have the energy to do things when they need to .
+en-bookbot/en-US-Madison/en-US-Madison_20.wav|en-US-Madison|it is time to go home so he will not be late .
+en-bookbot/en-US-Madison/en-US-Madison_200.wav|en-US-Madison|the bees do not want to hang out , but zom is glad to be near them in a way that they like .
+en-bookbot/en-US-Madison/en-US-Madison_201.wav|en-US-Madison|she is not by the shrubs at the back .
+en-bookbot/en-US-Madison/en-US-Madison_202.wav|en-US-Madison|here is a job that she can do .
+en-bookbot/en-US-Madison/en-US-Madison_203.wav|en-US-Madison|but he was made to do big things .
+en-bookbot/en-US-Madison/en-US-Madison_204.wav|en-US-Madison|i think we need to be slow now .
+en-bookbot/en-US-Madison/en-US-Madison_205.wav|en-US-Madison|dragon is so good he gets a job .
+en-bookbot/en-US-Madison/en-US-Madison_206.wav|en-US-Madison|skink was already deep in the beasts den .
+en-bookbot/en-US-Madison/en-US-Madison_207.wav|en-US-Madison|pas says this pot is the best .
+en-bookbot/en-US-Madison/en-US-Madison_208.wav|en-US-Madison|the fish said that it would teach him .
+en-bookbot/en-US-Madison/en-US-Madison_209.wav|en-US-Madison|a cat got at the rot in the log .
+en-bookbot/en-US-Madison/en-US-Madison_21.wav|en-US-Madison|they do not need big companies to give them their approval .
+en-bookbot/en-US-Madison/en-US-Madison_210.wav|en-US-Madison|this spook is not in the mood to spook .
+en-bookbot/en-US-Madison/en-US-Madison_211.wav|en-US-Madison|we hide in a cave to keep dry .
+en-bookbot/en-US-Madison/en-US-Madison_212.wav|en-US-Madison|he will set a flame under the pot .
+en-bookbot/en-US-Madison/en-US-Madison_213.wav|en-US-Madison|is there different way that he can grab the cod so that he can make some lunch ?
+en-bookbot/en-US-Madison/en-US-Madison_214.wav|en-US-Madison|are there things with no wings that can still be up in the sky ?
+en-bookbot/en-US-Madison/en-US-Madison_215.wav|en-US-Madison|i wonder what he is going to get up to when the sun is up again ?
+en-bookbot/en-US-Madison/en-US-Madison_216.wav|en-US-Madison|or would they break the things that we have made ?
+en-bookbot/en-US-Madison/en-US-Madison_217.wav|en-US-Madison|can things with no wings be up in the sky ?
+en-bookbot/en-US-Madison/en-US-Madison_218.wav|en-US-Madison|will it try to get us when we go by ?
+en-bookbot/en-US-Madison/en-US-Madison_219.wav|en-US-Madison|just how big was this beast going to be ?
+en-bookbot/en-US-Madison/en-US-Madison_22.wav|en-US-Madison|his friends have moved on so that they could stay safe .
+en-bookbot/en-US-Madison/en-US-Madison_220.wav|en-US-Madison|maybe we can see how we go with each book ?
+en-bookbot/en-US-Madison/en-US-Madison_221.wav|en-US-Madison|was this why it was hard to find friends ?
+en-bookbot/en-US-Madison/en-US-Madison_222.wav|en-US-Madison|what will happen to these things along the way ?
+en-bookbot/en-US-Madison/en-US-Madison_223.wav|en-US-Madison|who is the kite going to pick up next ?
+en-bookbot/en-US-Madison/en-US-Madison_224.wav|en-US-Madison|is there anything that might get in the way ?
+en-bookbot/en-US-Madison/en-US-Madison_225.wav|en-US-Madison|what is he going to do with it all ?
+en-bookbot/en-US-Madison/en-US-Madison_226.wav|en-US-Madison|is she going to keep interacting with it ?
+en-bookbot/en-US-Madison/en-US-Madison_227.wav|en-US-Madison|why was a pig even up this high ?
+en-bookbot/en-US-Madison/en-US-Madison_228.wav|en-US-Madison|is this branch the spot that it wants ?
+en-bookbot/en-US-Madison/en-US-Madison_229.wav|en-US-Madison|what was a pig doing up so high ?
+en-bookbot/en-US-Madison/en-US-Madison_23.wav|en-US-Madison|it is like they have more life than they have in a while .
+en-bookbot/en-US-Madison/en-US-Madison_230.wav|en-US-Madison|is there a new way to do this ?
+en-bookbot/en-US-Madison/en-US-Madison_231.wav|en-US-Madison|does he means to set up a shop ?
+en-bookbot/en-US-Madison/en-US-Madison_232.wav|en-US-Madison|now what will he make with his cod ?
+en-bookbot/en-US-Madison/en-US-Madison_233.wav|en-US-Madison|does it want to flip the tin and see what is inside ?
+en-bookbot/en-US-Madison/en-US-Madison_234.wav|en-US-Madison|can we still find a way to know how heavy it is ?
+en-bookbot/en-US-Madison/en-US-Madison_235.wav|en-US-Madison|will the bird be able to get back in time to defend the nest ?
+en-bookbot/en-US-Madison/en-US-Madison_236.wav|en-US-Madison|is it going to be something that will make the bats feel more welcome on the farm ?
+en-bookbot/en-US-Madison/en-US-Madison_237.wav|en-US-Madison|he crouches on the ground when he plays some games , but is he playing now ?
+en-bookbot/en-US-Madison/en-US-Madison_238.wav|en-US-Madison|has it been on a long flight ?
+en-bookbot/en-US-Madison/en-US-Madison_239.wav|en-US-Madison|we just spent all day at school and now we have to sit through more ?
+en-bookbot/en-US-Madison/en-US-Madison_24.wav|en-US-Madison|the lady said , pointing to a bird before running off .
+en-bookbot/en-US-Madison/en-US-Madison_240.wav|en-US-Madison|what fun is in the next yard ?
+en-bookbot/en-US-Madison/en-US-Madison_241.wav|en-US-Madison|how was he going to get down ?
+en-bookbot/en-US-Madison/en-US-Madison_242.wav|en-US-Madison|what will the cat want to bat ?
+en-bookbot/en-US-Madison/en-US-Madison_243.wav|en-US-Madison|is there anything that doesnt have wings that can still be up in the sky ?
+en-bookbot/en-US-Madison/en-US-Madison_244.wav|en-US-Madison|is there any water in the pail ?
+en-bookbot/en-US-Madison/en-US-Madison_245.wav|en-US-Madison|will it move when the people want to go to sleep too ?
+en-bookbot/en-US-Madison/en-US-Madison_246.wav|en-US-Madison|what is he going to do when his mum goes to work ?
+en-bookbot/en-US-Madison/en-US-Madison_247.wav|en-US-Madison|does he want to have a game ?
+en-bookbot/en-US-Madison/en-US-Madison_248.wav|en-US-Madison|can beasts that do not have wings still get up into the sky and fly ?
+en-bookbot/en-US-Madison/en-US-Madison_249.wav|en-US-Madison|how do they find where to go ?
+en-bookbot/en-US-Madison/en-US-Madison_25.wav|en-US-Madison|it is the dog that lives on the farm near this field .
+en-bookbot/en-US-Madison/en-US-Madison_250.wav|en-US-Madison|can he get back up in time ?
+en-bookbot/en-US-Madison/en-US-Madison_251.wav|en-US-Madison|can it make the strong branch crack ?
+en-bookbot/en-US-Madison/en-US-Madison_252.wav|en-US-Madison|have we found something bad out here ?
+en-bookbot/en-US-Madison/en-US-Madison_253.wav|en-US-Madison|will he land in the right spot ?
+en-bookbot/en-US-Madison/en-US-Madison_254.wav|en-US-Madison|what will he do with the day ?
+en-bookbot/en-US-Madison/en-US-Madison_255.wav|en-US-Madison|what is that coming through the window ?
+en-bookbot/en-US-Madison/en-US-Madison_256.wav|en-US-Madison|did she walk off down the street ?
+en-bookbot/en-US-Madison/en-US-Madison_257.wav|en-US-Madison|we can go to a dry spot ?
+en-bookbot/en-US-Madison/en-US-Madison_258.wav|en-US-Madison|what is he going to cook up ?
+en-bookbot/en-US-Madison/en-US-Madison_259.wav|en-US-Madison|how do we get to a new spot and find food over the dry season ?
+en-bookbot/en-US-Madison/en-US-Madison_26.wav|en-US-Madison|it is hard to find food when the water dries up .
+en-bookbot/en-US-Madison/en-US-Madison_260.wav|en-US-Madison|if she cannot get a pet that will be too tall or stink too much or hug too tight , what kind of pet is it going to be ?
+en-bookbot/en-US-Madison/en-US-Madison_261.wav|en-US-Madison|who would put traps out here to catch the animals ?
+en-bookbot/en-US-Madison/en-US-Madison_262.wav|en-US-Madison|how else will we find out what is going on ?
+en-bookbot/en-US-Madison/en-US-Madison_263.wav|en-US-Madison|what will it look like without all of the muck ?
+en-bookbot/en-US-Madison/en-US-Madison_264.wav|en-US-Madison|can he make a link with one of these animals ?
+en-bookbot/en-US-Madison/en-US-Madison_265.wav|en-US-Madison|would they go crazy when there was a good sale ?
+en-bookbot/en-US-Madison/en-US-Madison_266.wav|en-US-Madison|he takes work off the next day so that we can head out !
+en-bookbot/en-US-Madison/en-US-Madison_267.wav|en-US-Madison|when the sun comes out the next day , she sees that there is a lot to drink !
+en-bookbot/en-US-Madison/en-US-Madison_268.wav|en-US-Madison|and think about how much food they would need to eat !
+en-bookbot/en-US-Madison/en-US-Madison_269.wav|en-US-Madison|there is more than one way to make a rod !
+en-bookbot/en-US-Madison/en-US-Madison_27.wav|en-US-Madison|it feels like she is on the path to something big .
+en-bookbot/en-US-Madison/en-US-Madison_270.wav|en-US-Madison|we can see a human shape in the clouds !
+en-bookbot/en-US-Madison/en-US-Madison_271.wav|en-US-Madison|he wants to be friends with the bird too !
+en-bookbot/en-US-Madison/en-US-Madison_272.wav|en-US-Madison|this hole is more like a mine shaft now !
+en-bookbot/en-US-Madison/en-US-Madison_273.wav|en-US-Madison|he can lift so much food all at once !
+en-bookbot/en-US-Madison/en-US-Madison_274.wav|en-US-Madison|he said that he was the best with a sword in all the land !
+en-bookbot/en-US-Madison/en-US-Madison_275.wav|en-US-Madison|it is so cool to live in the best time so far to understand dinosaurs !
+en-bookbot/en-US-Madison/en-US-Madison_276.wav|en-US-Madison|a dog that can jump up and get the ball in a flash !
+en-bookbot/en-US-Madison/en-US-Madison_277.wav|en-US-Madison|klik tricks the cat with a dog sound !
+en-bookbot/en-US-Madison/en-US-Madison_278.wav|en-US-Madison|we can go on with what we like !
+en-bookbot/en-US-Madison/en-US-Madison_279.wav|en-US-Madison|it is a nice cloth to sit on !
+en-bookbot/en-US-Madison/en-US-Madison_28.wav|en-US-Madison|he says that they should bring it back to his place .
+en-bookbot/en-US-Madison/en-US-Madison_280.wav|en-US-Madison|i can see kites all down my street !
+en-bookbot/en-US-Madison/en-US-Madison_281.wav|en-US-Madison|he gets more of a fright than we thought he would get !
+en-bookbot/en-US-Madison/en-US-Madison_282.wav|en-US-Madison|i did not know that i could find the sea in a book !
+en-bookbot/en-US-Madison/en-US-Madison_283.wav|en-US-Madison|when the jones family got inside , they thought that there might have been a thief !
+en-bookbot/en-US-Madison/en-US-Madison_284.wav|en-US-Madison|the giraffe is unsure that he ever would have been able to get it by himself !
+en-bookbot/en-US-Madison/en-US-Madison_285.wav|en-US-Madison|zom can stay up all night hidden in the garden so that he can catch the pumpkin thief !
+en-bookbot/en-US-Madison/en-US-Madison_286.wav|en-US-Madison|he is going to hide out in the chicken pen overnight and give the fox a scare when it turns up !
+en-bookbot/en-US-Madison/en-US-Madison_287.wav|en-US-Madison|the cat is out in the yard !
+en-bookbot/en-US-Madison/en-US-Madison_288.wav|en-US-Madison|i can not wait to read it !
+en-bookbot/en-US-Madison/en-US-Madison_289.wav|en-US-Madison|he can do the work so well !
+en-bookbot/en-US-Madison/en-US-Madison_29.wav|en-US-Madison|he likes to make things that can think on their own .
+en-bookbot/en-US-Madison/en-US-Madison_290.wav|en-US-Madison|now all he wants is that food !
+en-bookbot/en-US-Madison/en-US-Madison_291.wav|en-US-Madison|i need to look like a magician !
+en-bookbot/en-US-Madison/en-US-Madison_292.wav|en-US-Madison|she sees a fish that can fly !
+en-bookbot/en-US-Madison/en-US-Madison_293.wav|en-US-Madison|she finds a fish in the hole !
+en-bookbot/en-US-Madison/en-US-Madison_294.wav|en-US-Madison|i have got to get that bat !
+en-bookbot/en-US-Madison/en-US-Madison_295.wav|en-US-Madison|now it is time to play ball !
+en-bookbot/en-US-Madison/en-US-Madison_296.wav|en-US-Madison|it is so small that it can fit in a hand !
+en-bookbot/en-US-Madison/en-US-Madison_297.wav|en-US-Madison|hats that go up in the sky !
+en-bookbot/en-US-Madison/en-US-Madison_298.wav|en-US-Madison|i just want to have a nap !
+en-bookbot/en-US-Madison/en-US-Madison_299.wav|en-US-Madison|we can find puddles so that we can make a big splash !
+en-bookbot/en-US-Madison/en-US-Madison_3.wav|en-US-Madison|she is on a mission to find out what the crab likes to eat best .
+en-bookbot/en-US-Madison/en-US-Madison_30.wav|en-US-Madison|he thinks that the cub will get on well with the others .
+en-bookbot/en-US-Madison/en-US-Madison_300.wav|en-US-Madison|the cat wants to grab the fish !
+en-bookbot/en-US-Madison/en-US-Madison_301.wav|en-US-Madison|bub can go up in the sky !
+en-bookbot/en-US-Madison/en-US-Madison_302.wav|en-US-Madison|i hope he knows where he is going !
+en-bookbot/en-US-Madison/en-US-Madison_303.wav|en-US-Madison|it can jump up in a flash !
+en-bookbot/en-US-Madison/en-US-Madison_304.wav|en-US-Madison|this should not be in the lake !
+en-bookbot/en-US-Madison/en-US-Madison_305.wav|en-US-Madison|he has been at work on a pen that can make art with no help !
+en-bookbot/en-US-Madison/en-US-Madison_306.wav|en-US-Madison|this time they see a pig that is up super high !
+en-bookbot/en-US-Madison/en-US-Madison_307.wav|en-US-Madison|when the sun comes out the next day , she walks out to see that the well , creek , tank and dam have all been filled !
+en-bookbot/en-US-Madison/en-US-Madison_308.wav|en-US-Madison|they point to a pig up high and see who can get there first !
+en-bookbot/en-US-Madison/en-US-Madison_309.wav|en-US-Madison|he wants to go out to his tree , but he is too fat to get out !
+en-bookbot/en-US-Madison/en-US-Madison_31.wav|en-US-Madison|she looks out at the town so that she can think .
+en-bookbot/en-US-Madison/en-US-Madison_310.wav|en-US-Madison|we need to go now to get home before dark !
+en-bookbot/en-US-Madison/en-US-Madison_311.wav|en-US-Madison|oh no , he will think that is a treat !
+en-bookbot/en-US-Madison/en-US-Madison_312.wav|en-US-Madison|it is time to come out of their tight homes !
+en-bookbot/en-US-Madison/en-US-Madison_313.wav|en-US-Madison|there is a hive of bees next to this spot !
+en-bookbot/en-US-Madison/en-US-Madison_314.wav|en-US-Madison|we found a good thing in this lake after all !
+en-bookbot/en-US-Madison/en-US-Madison_315.wav|en-US-Madison|i will catch him as much fish as he can eat !
+en-bookbot/en-US-Madison/en-US-Madison_316.wav|en-US-Madison|maybe there are bad things in this lake after all !
+en-bookbot/en-US-Madison/en-US-Madison_317.wav|en-US-Madison|dragon lets out a flame that lights up the night !
+en-bookbot/en-US-Madison/en-US-Madison_318.wav|en-US-Madison|i made my cat out of the food that i drew !
+en-bookbot/en-US-Madison/en-US-Madison_319.wav|en-US-Madison|ma gets me a box .
+en-bookbot/en-US-Madison/en-US-Madison_32.wav|en-US-Madison|she works with a vet to find out what they need .
+en-bookbot/en-US-Madison/en-US-Madison_320.wav|en-US-Madison|the boy yells at the cat .
+en-bookbot/en-US-Madison/en-US-Madison_321.wav|en-US-Madison|she shouts with loud joy .
+en-bookbot/en-US-Madison/en-US-Madison_322.wav|en-US-Madison|said the drop bear .
+en-bookbot/en-US-Madison/en-US-Madison_323.wav|en-US-Madison|asked a little boy .
+en-bookbot/en-US-Madison/en-US-Madison_324.wav|en-US-Madison|she asked in confusion .
+en-bookbot/en-US-Madison/en-US-Madison_325.wav|en-US-Madison|it runs to get the cat .
+en-bookbot/en-US-Madison/en-US-Madison_326.wav|en-US-Madison|she was going to find out .
+en-bookbot/en-US-Madison/en-US-Madison_327.wav|en-US-Madison|the rod is not the best .
+en-bookbot/en-US-Madison/en-US-Madison_328.wav|en-US-Madison|my mum will not be late .
+en-bookbot/en-US-Madison/en-US-Madison_329.wav|en-US-Madison|her toy duck comes to life .
+en-bookbot/en-US-Madison/en-US-Madison_33.wav|en-US-Madison|she is so happy that she is getting along with a dog .
+en-bookbot/en-US-Madison/en-US-Madison_330.wav|en-US-Madison|up in the air they go .
+en-bookbot/en-US-Madison/en-US-Madison_331.wav|en-US-Madison|this cat wants to hop up .
+en-bookbot/en-US-Madison/en-US-Madison_332.wav|en-US-Madison|she will make the best cake .
+en-bookbot/en-US-Madison/en-US-Madison_333.wav|en-US-Madison|and we can still love them .
+en-bookbot/en-US-Madison/en-US-Madison_334.wav|en-US-Madison|she can get water to cook .
+en-bookbot/en-US-Madison/en-US-Madison_335.wav|en-US-Madison|i do not need a nap .
+en-bookbot/en-US-Madison/en-US-Madison_336.wav|en-US-Madison|sam is not himself at all .
+en-bookbot/en-US-Madison/en-US-Madison_337.wav|en-US-Madison|they make my feet look cute .
+en-bookbot/en-US-Madison/en-US-Madison_338.wav|en-US-Madison|his new cap was so cool .
+en-bookbot/en-US-Madison/en-US-Madison_339.wav|en-US-Madison|i can kick the ball hard .
+en-bookbot/en-US-Madison/en-US-Madison_34.wav|en-US-Madison|he looks like he is a bird flying in the sky .
+en-bookbot/en-US-Madison/en-US-Madison_340.wav|en-US-Madison|the spring brought it to him .
+en-bookbot/en-US-Madison/en-US-Madison_341.wav|en-US-Madison|it took some houses with it .
+en-bookbot/en-US-Madison/en-US-Madison_342.wav|en-US-Madison|she leads it to a puddle .
+en-bookbot/en-US-Madison/en-US-Madison_343.wav|en-US-Madison|we can see wheels all over .
+en-bookbot/en-US-Madison/en-US-Madison_344.wav|en-US-Madison|his pals do not like it .
+en-bookbot/en-US-Madison/en-US-Madison_345.wav|en-US-Madison|zom wants to see more bees .
+en-bookbot/en-US-Madison/en-US-Madison_346.wav|en-US-Madison|ada saw a lady watching them .
+en-bookbot/en-US-Madison/en-US-Madison_347.wav|en-US-Madison|a mule can take a lot .
+en-bookbot/en-US-Madison/en-US-Madison_348.wav|en-US-Madison|it is friends with a cat .
+en-bookbot/en-US-Madison/en-US-Madison_349.wav|en-US-Madison|tim gets up in the air .
+en-bookbot/en-US-Madison/en-US-Madison_35.wav|en-US-Madison|no one is safe when he is in the mood to scare .
+en-bookbot/en-US-Madison/en-US-Madison_350.wav|en-US-Madison|he can hear the bees inside .
+en-bookbot/en-US-Madison/en-US-Madison_351.wav|en-US-Madison|there is one on the ball .
+en-bookbot/en-US-Madison/en-US-Madison_352.wav|en-US-Madison|bones jumps up on the bed .
+en-bookbot/en-US-Madison/en-US-Madison_353.wav|en-US-Madison|zom likes to create new things .
+en-bookbot/en-US-Madison/en-US-Madison_354.wav|en-US-Madison|macrovision . luxury . illusionist . univision . euthanasia . provisioning . subversion . indonesias . perfusion . cohesion .
+en-bookbot/en-US-Madison/en-US-Madison_355.wav|en-US-Madison|television . perversion . cashmere . artesian . casual . decision . measurable . seizures . occasion . delusional .
+en-bookbot/en-US-Madison/en-US-Madison_356.wav|en-US-Madison|occlusion . regime . provisional . spectravision . treasure . asian . melanesian . aspersions . infusion . intrusion .
+en-bookbot/en-US-Madison/en-US-Madison_357.wav|en-US-Madison|ellipsoids . ballpoint . decoy . sigmoid . boycott . royale . batboys . bioflavonoid . joyful . envoys .
+en-bookbot/en-US-Madison/en-US-Madison_36.wav|en-US-Madison|this means that they do not have to stay in cold spots where there is not much food .
+en-bookbot/en-US-Madison/en-US-Madison_37.wav|en-US-Madison|they put up their tails to try to keep the rain off .
+en-bookbot/en-US-Madison/en-US-Madison_38.wav|en-US-Madison|he can see what it feels like to not be free .
+en-bookbot/en-US-Madison/en-US-Madison_39.wav|en-US-Madison|that means that it will cook the same all the way through .
+en-bookbot/en-US-Madison/en-US-Madison_4.wav|en-US-Madison|it will be good to have the walk home to help with that too .
+en-bookbot/en-US-Madison/en-US-Madison_40.wav|en-US-Madison|and she can take a trip again any time that she likes .
+en-bookbot/en-US-Madison/en-US-Madison_41.wav|en-US-Madison|she ran off so that she could give him some room .
+en-bookbot/en-US-Madison/en-US-Madison_42.wav|en-US-Madison|we hit the ball up high so that we will be able to send it over the net when we set up a real game .
+en-bookbot/en-US-Madison/en-US-Madison_43.wav|en-US-Madison|jack finds a nice place that is out of the way to put up the bat box .
+en-bookbot/en-US-Madison/en-US-Madison_44.wav|en-US-Madison|these colours can help to break up their shape so that they can hide in the coral .
+en-bookbot/en-US-Madison/en-US-Madison_45.wav|en-US-Madison|jack turned around to try to scoop up his new pet so that they could run away .
+en-bookbot/en-US-Madison/en-US-Madison_46.wav|en-US-Madison|skel says that he will come out and have a look at what is going on .
+en-bookbot/en-US-Madison/en-US-Madison_47.wav|en-US-Madison|if he could just find where he left the lovely yellow bunch and he would be fine again .
+en-bookbot/en-US-Madison/en-US-Madison_48.wav|en-US-Madison|i put them all back in a big box by my bed when they are clean .
+en-bookbot/en-US-Madison/en-US-Madison_49.wav|en-US-Madison|he is a big name in bike fandom , so he must keep his bike in great shape .
+en-bookbot/en-US-Madison/en-US-Madison_5.wav|en-US-Madison|he will have to try hard when he is not in the mood .
+en-bookbot/en-US-Madison/en-US-Madison_50.wav|en-US-Madison|the bird thinks that they would all make great friends .
+en-bookbot/en-US-Madison/en-US-Madison_51.wav|en-US-Madison|here is a van than can help us at sea .
+en-bookbot/en-US-Madison/en-US-Madison_52.wav|en-US-Madison|it could not fly in the sky like a bird .
+en-bookbot/en-US-Madison/en-US-Madison_53.wav|en-US-Madison|some trees get so covered that the vines take over .
+en-bookbot/en-US-Madison/en-US-Madison_54.wav|en-US-Madison|town feels different now that he is not by himself .
+en-bookbot/en-US-Madison/en-US-Madison_55.wav|en-US-Madison|my dad can ride a big bike all by himself .
+en-bookbot/en-US-Madison/en-US-Madison_56.wav|en-US-Madison|he says that there is no need to be mean .
+en-bookbot/en-US-Madison/en-US-Madison_57.wav|en-US-Madison|i feel like the firefly is looking up at the stars .
+en-bookbot/en-US-Madison/en-US-Madison_58.wav|en-US-Madison|crow will find a spot to sing on his own .
+en-bookbot/en-US-Madison/en-US-Madison_59.wav|en-US-Madison|greenery is what they like to munch on the best .
+en-bookbot/en-US-Madison/en-US-Madison_6.wav|en-US-Madison|gran says that she likes to have a few books on the go .
+en-bookbot/en-US-Madison/en-US-Madison_60.wav|en-US-Madison|lights mean that we can still do things after dark .
+en-bookbot/en-US-Madison/en-US-Madison_61.wav|en-US-Madison|it is fun to find things to chew in the yard .
+en-bookbot/en-US-Madison/en-US-Madison_62.wav|en-US-Madison|bug wants to sing a song that is more fun .
+en-bookbot/en-US-Madison/en-US-Madison_63.wav|en-US-Madison|vic says he just needs to give it a try .
+en-bookbot/en-US-Madison/en-US-Madison_64.wav|en-US-Madison|then he will be able to get up to some fun .
+en-bookbot/en-US-Madison/en-US-Madison_65.wav|en-US-Madison|it is so fun to go to a carnival at night .
+en-bookbot/en-US-Madison/en-US-Madison_66.wav|en-US-Madison|we need him to make things that can help us .
+en-bookbot/en-US-Madison/en-US-Madison_67.wav|en-US-Madison|mum gives them a cloth to clean up some more .
+en-bookbot/en-US-Madison/en-US-Madison_68.wav|en-US-Madison|they walk through town to find a good spot to eat .
+en-bookbot/en-US-Madison/en-US-Madison_69.wav|en-US-Madison|he hopes that he will gain some friends this way .
+en-bookbot/en-US-Madison/en-US-Madison_7.wav|en-US-Madison|we must try to hit the ball to a tough spot in the court where they will not be able to hit it back .
+en-bookbot/en-US-Madison/en-US-Madison_70.wav|en-US-Madison|he dives down deep so that he can be safe .
+en-bookbot/en-US-Madison/en-US-Madison_71.wav|en-US-Madison|his dad says that he would love to help him .
+en-bookbot/en-US-Madison/en-US-Madison_72.wav|en-US-Madison|it must be because there was more room to swim .
+en-bookbot/en-US-Madison/en-US-Madison_73.wav|en-US-Madison|that is one way to make a bird think again .
+en-bookbot/en-US-Madison/en-US-Madison_74.wav|en-US-Madison|they make the room seem like it is day time .
+en-bookbot/en-US-Madison/en-US-Madison_75.wav|en-US-Madison|he will have to find a way to make them look .
+en-bookbot/en-US-Madison/en-US-Madison_76.wav|en-US-Madison|they have not been to a farm like this one .
+en-bookbot/en-US-Madison/en-US-Madison_77.wav|en-US-Madison|tim is doing his best not to look at things .
+en-bookbot/en-US-Madison/en-US-Madison_78.wav|en-US-Madison|a hat to have on while they cut that tin .
+en-bookbot/en-US-Madison/en-US-Madison_79.wav|en-US-Madison|she wants to go on a quest to find new things .
+en-bookbot/en-US-Madison/en-US-Madison_8.wav|en-US-Madison|there is a dog in the field that is very much looking like it wants to try a rainbow cake pop .
+en-bookbot/en-US-Madison/en-US-Madison_80.wav|en-US-Madison|their mum will teach them what they need to live .
+en-bookbot/en-US-Madison/en-US-Madison_81.wav|en-US-Madison|spencer helps them go back when the sea is low .
+en-bookbot/en-US-Madison/en-US-Madison_82.wav|en-US-Madison|it is fun to have a mouse in the house .
+en-bookbot/en-US-Madison/en-US-Madison_83.wav|en-US-Madison|some of the cod look like they want to find out what is going on .
+en-bookbot/en-US-Madison/en-US-Madison_84.wav|en-US-Madison|he must take care not to get caught in its net while they catch fish .
+en-bookbot/en-US-Madison/en-US-Madison_85.wav|en-US-Madison|starfang is there when they open the door to come in and have a look .
+en-bookbot/en-US-Madison/en-US-Madison_86.wav|en-US-Madison|he thinks that his flame will be so big that it could turn night into day .
+en-bookbot/en-US-Madison/en-US-Madison_87.wav|en-US-Madison|they try not to make a sound so that mum will not send the pig off .
+en-bookbot/en-US-Madison/en-US-Madison_88.wav|en-US-Madison|he wants to grow up and have a job where he can be outside a lot .
+en-bookbot/en-US-Madison/en-US-Madison_89.wav|en-US-Madison|he must be fit and eat well so that he can keep up with work .
+en-bookbot/en-US-Madison/en-US-Madison_9.wav|en-US-Madison|it is not so bad to be a fish with a frog pal .
+en-bookbot/en-US-Madison/en-US-Madison_90.wav|en-US-Madison|the farmer has cut a path so that they can pick the fruit that the vines grow .
+en-bookbot/en-US-Madison/en-US-Madison_91.wav|en-US-Madison|the husk makes it hard to cut through the coconut and get to what is inside .
+en-bookbot/en-US-Madison/en-US-Madison_92.wav|en-US-Madison|we need to jump up high to hit the ball so that it sails over the net .
+en-bookbot/en-US-Madison/en-US-Madison_93.wav|en-US-Madison|he went home to rest so that he could look when the sun came up .
+en-bookbot/en-US-Madison/en-US-Madison_94.wav|en-US-Madison|we dont go to the swings because we know that he will fling stuff at us with his slingshot .
+en-bookbot/en-US-Madison/en-US-Madison_95.wav|en-US-Madison|aidan is happy enough to at least get that much , and he runs off through the village street , excited to try his new magic wand .
+en-bookbot/en-US-Madison/en-US-Madison_96.wav|en-US-Madison|sometimes they do not want to do what we say .
+en-bookbot/en-US-Madison/en-US-Madison_97.wav|en-US-Madison|he might not get to the stars in the sky .
+en-bookbot/en-US-Madison/en-US-Madison_98.wav|en-US-Madison|it is a fine day to fly my kite .
